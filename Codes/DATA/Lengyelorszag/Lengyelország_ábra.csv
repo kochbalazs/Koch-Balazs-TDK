@@ -1,0 +1,2481 @@
+﻿Segédtábla: gminák körzete, távolsága, rangja és gyűrűje;;;;;
+TERYT (7 jegy);TERYT (6 jegy);Gmina;Vonzáskörzet;Központ? (1/0);Gyűrű (0 = központ)
+0201011;020101;Bolesławiec;Wrocław;0;5
+0201022;020102;Bolesławiec;Wrocław;0;5
+0201032;020103;Gromadka;Wrocław;0;5
+0201043;020104;Nowogrodziec;Wrocław;0;5
+0201052;020105;Osiecznica;Zielona Góra;0;5
+0201062;020106;Warta Bolesławiecka;Wrocław;0;5
+0202011;020201;Bielawa;Wrocław;0;2
+0202021;020202;Dzierżoniów;Wrocław;0;2
+0202033;020203;Pieszyce;Wrocław;0;2
+0202041;020204;Piława Górna;Wrocław;0;2
+0202052;020205;Dzierżoniów;Wrocław;0;2
+0202062;020206;Łagiewniki;Wrocław;0;1
+0202073;020207;Niemcza;Wrocław;0;2
+0203011;020301;Głogów;Zielona Góra;0;4
+0203022;020302;Głogów;Wrocław;0;4
+0203032;020303;Jerzmanowa;Wrocław;0;4
+0203042;020304;Kotla;Zielona Góra;0;3
+0203052;020305;Pęcław;Wrocław;0;4
+0203062;020306;Żukowice;Zielona Góra;0;3
+0204013;020401;Góra;Wrocław;0;3
+0204022;020402;Jemielno;Wrocław;0;2
+0204032;020403;Niechlów;Wrocław;0;4
+0204043;020404;Wąsosz;Wrocław;0;2
+0205011;020501;Jawor;Wrocław;0;2
+0205023;020502;Bolków;Wrocław;0;3
+0205032;020503;Męcinka;Wrocław;0;3
+0205042;020504;Mściwojów;Wrocław;0;2
+0205052;020505;Paszowice;Wrocław;0;3
+0205062;020506;Wądroże Wielkie;Wrocław;0;1
+0206011;020601;Karpacz;Wrocław;0;5
+0206021;020602;Kowary;Wrocław;0;5
+0206031;020603;Piechowice;Wrocław;0;5
+0206041;020604;Szklarska Poręba;Wrocław;0;5
+0206052;020605;Janowice Wielkie;Wrocław;0;4
+0206062;020606;Jeżów Sudecki;Wrocław;0;5
+0206072;020607;Mysłakowice;Wrocław;0;4
+0206082;020608;Podgórzyn;Wrocław;0;5
+0206092;020609;Stara Kamienica;Wrocław;0;5
+0207011;020701;Kamienna Góra;Wrocław;0;4
+0207022;020702;Kamienna Góra;Wrocław;0;4
+0207033;020703;Lubawka;Wrocław;0;4
+0207042;020704;Marciszów;Wrocław;0;4
+0208011;020801;Duszniki-Zdrój;Wrocław;0;5
+0208021;020802;Kłodzko;Wrocław;0;4
+0208031;020803;Kudowa-Zdrój;Wrocław;0;5
+0208041;020804;Nowa Ruda;Wrocław;0;3
+0208051;020805;Polanica-Zdrój;Wrocław;0;4
+0208063;020806;Bystrzyca Kłodzka;Wrocław;0;5
+0208072;020807;Kłodzko;Wrocław;0;4
+0208083;020808;Lądek-Zdrój;Wrocław;0;4
+0208092;020809;Lewin Kłodzki;Wrocław;0;5
+0208103;020810;Międzylesie;Wrocław;0;5
+0208112;020811;Nowa Ruda;Wrocław;0;3
+0208123;020812;Radków;Wrocław;0;4
+0208133;020813;Stronie Śląskie;Wrocław;0;5
+0208143;020814;Szczytna;Wrocław;0;4
+0209011;020901;Chojnów;Wrocław;0;4
+0209022;020902;Chojnów;Wrocław;0;4
+0209032;020903;Krotoszyce;Wrocław;0;3
+0209042;020904;Kunice;Wrocław;0;2
+0209052;020905;Legnickie Pole;Wrocław;0;2
+0209062;020906;Miłkowice;Wrocław;0;3
+0209073;020907;Prochowice;Wrocław;0;2
+0209082;020908;Ruja;Wrocław;0;1
+0210011;021001;Lubań;Wrocław;0;5
+0210021;021002;Świeradów-Zdrój;Wrocław;0;5
+0210033;021003;Leśna;Wrocław;0;5
+0210042;021004;Lubań;Wrocław;0;5
+0210053;021005;Olszyna;Wrocław;0;5
+0210062;021006;Platerówka;Wrocław;0;5
+0210072;021007;Siekierczyn;Wrocław;0;5
+0211011;021101;Lubin;Wrocław;0;3
+0211022;021102;Lubin;Wrocław;0;3
+0211032;021103;Rudna;Wrocław;0;3
+0211043;021104;Ścinawa;Wrocław;0;2
+0212013;021201;Gryfów Śląski;Wrocław;0;5
+0212023;021202;Lubomierz;Wrocław;0;5
+0212033;021203;Lwówek Śląski;Wrocław;0;5
+0212043;021204;Mirsk;Wrocław;0;5
+0212053;021205;Wleń;Wrocław;0;5
+0213012;021301;Cieszków;Wrocław;0;2
+0213022;021302;Krośnice;Wrocław;0;1
+0213033;021303;Milicz;Wrocław;0;2
+0214011;021401;Oleśnica;Wrocław;0;1
+0214023;021402;Bierutów;Wrocław;0;1
+0214032;021403;Dobroszyce;Wrocław;0;1
+0214042;021404;Dziadowa Kłoda;Wrocław;0;2
+0214053;021405;Międzybórz;Wrocław;0;2
+0214062;021406;Oleśnica;Wrocław;0;1
+0214073;021407;Syców;Wrocław;0;2
+0214083;021408;Twardogóra;Wrocław;0;1
+0215011;021501;Oława;Wrocław;0;1
+0215022;021502;Domaniów;Wrocław;0;1
+0215033;021503;Jelcz-Laskowice;Wrocław;0;1
+0215042;021504;Oława;Wrocław;0;1
+0216013;021601;Chocianów;Wrocław;0;4
+0216022;021602;Gaworzyce;Zielona Góra;0;4
+0216032;021603;Grębocice;Wrocław;0;4
+0216043;021604;Polkowice;Wrocław;0;4
+0216053;021605;Przemków;Zielona Góra;0;4
+0216062;021606;Radwanice;Zielona Góra;0;4
+0217012;021701;Borów;Wrocław;0;1
+0217022;021702;Kondratowice;Wrocław;0;1
+0217032;021703;Przeworno;Wrocław;0;2
+0217043;021704;Strzelin;Wrocław;0;1
+0217053;021705;Wiązów;Wrocław;0;1
+0218012;021801;Kostomłoty;Wrocław;0;1
+0218022;021802;Malczyce;Wrocław;0;1
+0218033;021803;Miękinia;Wrocław;0;1
+0218043;021804;Środa Śląska;Wrocław;0;1
+0218052;021805;Udanin;Wrocław;0;1
+0219011;021901;Świdnica;Wrocław;0;2
+0219021;021902;Świebodzice;Wrocław;0;2
+0219032;021903;Dobromierz;Wrocław;0;2
+0219043;021904;Jaworzyna Śląska;Wrocław;0;2
+0219052;021905;Marcinowice;Wrocław;0;1
+0219063;021906;Strzegom;Wrocław;0;2
+0219072;021907;Świdnica;Wrocław;0;2
+0219083;021908;Żarów;Wrocław;0;1
+0220013;022001;Oborniki Śląskie;Wrocław;0;1
+0220023;022002;Prusice;Wrocław;0;1
+0220033;022003;Trzebnica;Wrocław;0;1
+0220042;022004;Wisznia Mała;Wrocław;0;1
+0220052;022005;Zawonia;Wrocław;0;1
+0220063;022006;Żmigród;Wrocław;0;1
+0221011;022101;Boguszów-Gorce;Wrocław;0;3
+0221021;022102;Jedlina-Zdrój;Wrocław;0;3
+0221031;022103;Szczawno-Zdrój;Wrocław;0;3
+0221042;022104;Czarny Bór;Wrocław;0;3
+0221053;022105;Głuszyca;Wrocław;0;3
+0221063;022106;Mieroszów;Wrocław;0;3
+0221072;022107;Stare Bogaczowice;Wrocław;0;3
+0221082;022108;Walim;Wrocław;0;2
+0222013;022201;Brzeg Dolny;Wrocław;0;1
+0222022;022202;Wińsko;Wrocław;0;2
+0222033;022203;Wołów;Wrocław;0;1
+0223012;022301;Czernica;Wrocław;0;1
+0223022;022302;Długołęka;Wrocław;0;1
+0223032;022303;Jordanów Śląski;Wrocław;0;1
+0223043;022304;Kąty Wrocławskie;Wrocław;0;1
+0223052;022305;Kobierzyce;Wrocław;0;1
+0223062;022306;Mietków;Wrocław;0;1
+0223073;022307;Sobótka;Wrocław;0;1
+0223083;022308;Siechnice;Wrocław;0;1
+0223092;022309;Żórawina;Wrocław;0;1
+0224013;022401;Bardo;Wrocław;0;3
+0224022;022402;Ciepłowody;Wrocław;0;2
+0224033;022403;Kamieniec Ząbkowicki;Wrocław;0;3
+0224042;022404;Stoszowice;Wrocław;0;3
+0224053;022405;Ząbkowice Śląskie;Wrocław;0;2
+0224063;022406;Ziębice;Wrocław;0;2
+0224073;022407;Złoty Stok;Wrocław;0;4
+0225011;022501;Zawidów;Wrocław;0;5
+0225021;022502;Zgorzelec;Wrocław;0;5
+0225033;022503;Bogatynia;Wrocław;0;5
+0225043;022504;Pieńsk;Wrocław;0;5
+0225052;022505;Sulików;Wrocław;0;5
+0225063;022506;Węgliniec;Zielona Góra;0;5
+0225072;022507;Zgorzelec;Wrocław;0;5
+0226011;022601;Wojcieszów;Wrocław;0;4
+0226021;022602;Złotoryja;Wrocław;0;4
+0226032;022603;Pielgrzymka;Wrocław;0;4
+0226043;022604;Świerzawa;Wrocław;0;4
+0226052;022605;Zagrodno;Wrocław;0;4
+0226062;022606;Złotoryja;Wrocław;0;3
+0261011;026101;Jelenia Góra;Wrocław;0;5
+0262011;026201;Legnica;Wrocław;0;2
+0264011;026401;Wrocław;Wrocław;1;0
+0265011;026501;Wałbrzych;Wrocław;0;3
+0401011;040101;Aleksandrów Kujawski;Toruń;0;1
+0401021;040102;Ciechocinek;Toruń;0;1
+0401031;040103;Nieszawa;Toruń;0;2
+0401042;040104;Aleksandrów Kujawski;Toruń;0;1
+0401052;040105;Bądkowo;Toruń;0;2
+0401062;040106;Koneck;Toruń;0;2
+0401072;040107;Raciążek;Toruń;0;1
+0401082;040108;Waganiec;Toruń;0;2
+0401092;040109;Zakrzewo;Toruń;0;2
+0402011;040201;Brodnica;Toruń;0;5
+0402022;040202;Bobrowo;Toruń;0;4
+0402032;040203;Brodnica;Toruń;0;5
+0402042;040204;Brzozie;Warszawa;0;5
+0402053;040205;Górzno;Warszawa;0;5
+0402062;040206;Bartniczka;Toruń;0;5
+0402073;040207;Jabłonowo Pomorskie;Toruń;0;5
+0402082;040208;Osiek;Toruń;0;4
+0402092;040209;Świedziebnia;Toruń;0;5
+0402102;040210;Zbiczno;Toruń;0;5
+0403012;040301;Białe Błota;Bydgoszcz;0;1
+0403022;040302;Dąbrowa Chełmińska;Bydgoszcz;0;1
+0403032;040303;Dobrcz;Bydgoszcz;0;1
+0403043;040304;Koronowo;Bydgoszcz;0;1
+0403052;040305;Nowa Wieś Wielka;Bydgoszcz;0;1
+0403062;040306;Osielsko;Bydgoszcz;0;1
+0403072;040307;Sicienko;Bydgoszcz;0;1
+0403083;040308;Solec Kujawski;Bydgoszcz;0;1
+0404011;040401;Chełmno;Bydgoszcz;0;2
+0404022;040402;Chełmno;Bydgoszcz;0;2
+0404032;040403;Kijewo Królewskie;Bydgoszcz;0;2
+0404042;040404;Lisewo;Toruń;0;2
+0404052;040405;Papowo Biskupie;Toruń;0;2
+0404062;040406;Stolno;Bydgoszcz;0;3
+0404072;040407;Unisław;Bydgoszcz;0;1
+0405011;040501;Golub-Dobrzyń;Toruń;0;2
+0405022;040502;Ciechocin;Toruń;0;1
+0405032;040503;Golub-Dobrzyń;Toruń;0;2
+0405043;040504;Kowalewo Pomorskie;Toruń;0;1
+0405052;040505;Radomin;Toruń;0;3
+0405062;040506;Zbójno;Toruń;0;2
+0406012;040601;Grudziądz;Toruń;0;4
+0406022;040602;Gruta;Toruń;0;4
+0406033;040603;Łasin;Toruń;0;5
+0406043;040604;Radzyń Chełmiński;Toruń;0;3
+0406052;040605;Rogóźno;Toruń;0;5
+0406062;040606;Świecie nad Osą;Toruń;0;5
+0407011;040701;Inowrocław;Bydgoszcz;0;2
+0407022;040702;Dąbrowa Biskupia;Toruń;0;2
+0407033;040703;Gniewkowo;Toruń;0;1
+0407042;040704;Inowrocław;Bydgoszcz;0;2
+0407053;040705;Janikowo;Bydgoszcz;0;3
+0407063;040706;Kruszwica;Toruń;0;3
+0407073;040707;Pakość;Bydgoszcz;0;2
+0407082;040708;Rojewo;Bydgoszcz;0;1
+0407092;040709;Złotniki Kujawskie;Bydgoszcz;0;1
+0408011;040801;Lipno;Toruń;0;3
+0408023;040802;Bobrowniki;Toruń;0;3
+0408032;040803;Chrostkowo;Toruń;0;3
+0408043;040804;Dobrzyń nad Wisłą;Warszawa;0;5
+0408053;040805;Kikół;Toruń;0;2
+0408062;040806;Lipno;Toruń;0;3
+0408073;040807;Skępe;Toruń;0;4
+0408082;040808;Tłuchowo;Warszawa;0;5
+0408092;040809;Wielgie;Toruń;0;4
+0409012;040901;Dąbrowa;Bydgoszcz;0;2
+0409022;040902;Jeziora Wielkie;Bydgoszcz;0;4
+0409033;040903;Mogilno;Bydgoszcz;0;3
+0409043;040904;Strzelno;Bydgoszcz;0;4
+0410013;041001;Kcynia;Bydgoszcz;0;2
+0410023;041002;Mrocza;Bydgoszcz;0;2
+0410033;041003;Nakło nad Notecią;Bydgoszcz;0;1
+0410042;041004;Sadki;Bydgoszcz;0;3
+0410053;041005;Szubin;Bydgoszcz;0;1
+0411011;041101;Radziejów;Toruń;0;3
+0411022;041102;Bytoń;Toruń;0;4
+0411032;041103;Dobre;Toruń;0;3
+0411042;041104;Osięciny;Toruń;0;3
+0411053;041105;Piotrków Kujawski;Toruń;0;5
+0411062;041106;Radziejów;Toruń;0;3
+0411072;041107;Topólka;Toruń;0;5
+0412011;041201;Rypin;Toruń;0;4
+0412022;041202;Brzuze;Toruń;0;3
+0412032;041203;Rogowo;Toruń;0;4
+0412042;041204;Rypin;Toruń;0;4
+0412052;041205;Skrwilno;Warszawa;0;5
+0412062;041206;Wąpielsk;Toruń;0;4
+0413013;041301;Kamień Krajeński;Bydgoszcz;0;4
+0413023;041302;Sępólno Krajeńskie;Bydgoszcz;0;3
+0413032;041303;Sośno;Bydgoszcz;0;2
+0413043;041304;Więcbork;Bydgoszcz;0;3
+0414012;041401;Bukowiec;Bydgoszcz;0;2
+0414022;041402;Dragacz;Bydgoszcz;0;4
+0414032;041403;Drzycim;Bydgoszcz;0;3
+0414042;041404;Jeżewo;Bydgoszcz;0;3
+0414052;041405;Lniano;Bydgoszcz;0;3
+0414063;041406;Nowe;Bydgoszcz;0;4
+0414072;041407;Osie;Bydgoszcz;0;4
+0414083;041408;Pruszcz;Bydgoszcz;0;1
+0414093;041409;Świecie;Bydgoszcz;0;2
+0414102;041410;Świekatowo;Bydgoszcz;0;2
+0414112;041411;Warlubie;Bydgoszcz;0;4
+0415011;041501;Chełmża;Toruń;0;1
+0415022;041502;Chełmża;Toruń;0;1
+0415032;041503;Czernikowo;Toruń;0;1
+0415042;041504;Lubicz;Toruń;0;1
+0415052;041505;Łubianka;Toruń;0;1
+0415062;041506;Łysomice;Toruń;0;1
+0415072;041507;Obrowo;Toruń;0;1
+0415082;041508;Wielka Nieszawka;Toruń;0;1
+0415092;041509;Zławieś Wielka;Bydgoszcz;0;1
+0416012;041601;Cekcyn;Bydgoszcz;0;3
+0416022;041602;Gostycyn;Bydgoszcz;0;3
+0416032;041603;Kęsowo;Bydgoszcz;0;3
+0416042;041604;Lubiewo;Bydgoszcz;0;2
+0416052;041605;Śliwice;Bydgoszcz;0;4
+0416063;041606;Tuchola;Bydgoszcz;0;4
+0417011;041701;Wąbrzeźno;Toruń;0;2
+0417022;041702;Dębowa Łąka;Toruń;0;3
+0417032;041703;Książki;Toruń;0;3
+0417042;041704;Płużnica;Toruń;0;2
+0417052;041705;Ryńsk;Toruń;0;2
+0418011;041801;Kowal;Łódź;0;5
+0418022;041802;Baruchowo;Łódź;0;4
+0418032;041803;Boniewo;Łódź;0;5
+0418043;041804;Brześć Kujawski;Toruń;0;4
+0418052;041805;Choceń;Łódź;0;5
+0418063;041806;Chodecz;Łódź;0;4
+0418072;041807;Fabianki;Toruń;0;4
+0418083;041808;Izbica Kujawska;Łódź;0;5
+0418092;041809;Kowal;Łódź;0;5
+0418102;041810;Lubanie;Toruń;0;3
+0418113;041811;Lubień Kujawski;Łódź;0;4
+0418123;041812;Lubraniec;Toruń;0;5
+0418132;041813;Włocławek;Toruń;0;5
+0419013;041901;Barcin;Bydgoszcz;0;2
+0419023;041902;Gąsawa;Bydgoszcz;0;3
+0419033;041903;Janowiec Wielkopolski;Poznań;0;3
+0419043;041904;Łabiszyn;Bydgoszcz;0;1
+0419052;041905;Rogowo;Poznań;0;3
+0419063;041906;Żnin;Bydgoszcz;0;2
+0461011;046101;Bydgoszcz;Bydgoszcz;1;0
+0462011;046201;Grudziądz;Toruń;0;4
+0463011;046301;Toruń;Toruń;1;0
+0464011;046401;Włocławek;Toruń;0;4
+0601011;060101;Międzyrzec Podlaski;Warszawa;0;5
+0601021;060102;Terespol;Warszawa;0;5
+0601032;060103;Biała Podlaska;Warszawa;0;5
+0601042;060104;Drelów;Warszawa;0;5
+0601052;060105;Janów Podlaski;Warszawa;0;5
+0601062;060106;Kodeń;Warszawa;0;5
+0601072;060107;Konstantynów;Warszawa;0;5
+0601082;060108;Leśna Podlaska;Warszawa;0;5
+0601092;060109;Łomazy;Warszawa;0;5
+0601102;060110;Międzyrzec Podlaski;Warszawa;0;5
+0601113;060111;Piszczac;Warszawa;0;5
+0601122;060112;Rokitno;Warszawa;0;5
+0601132;060113;Rossosz;Lublin;0;4
+0601142;060114;Sławatycze;Lublin;0;5
+0601152;060115;Sosnówka;Lublin;0;4
+0601162;060116;Terespol;Warszawa;0;5
+0601172;060117;Tuczna;Lublin;0;5
+0601182;060118;Wisznice;Lublin;0;4
+0601192;060119;Zalesie;Warszawa;0;5
+0602011;060201;Biłgoraj;Lublin;0;4
+0602022;060202;Aleksandrów;Lublin;0;5
+0602032;060203;Biłgoraj;Lublin;0;4
+0602042;060204;Biszcza;Rzeszów;0;4
+0602053;060205;Frampol;Lublin;0;4
+0602063;060206;Goraj;Lublin;0;3
+0602073;060207;Józefów;Lublin;0;5
+0602082;060208;Księżpol;Rzeszów;0;5
+0602092;060209;Łukowa;Rzeszów;0;5
+0602102;060210;Obsza;Rzeszów;0;5
+0602112;060211;Potok Górny;Rzeszów;0;4
+0602123;060212;Tarnogród;Rzeszów;0;4
+0602132;060213;Tereszpol;Lublin;0;4
+0602143;060214;Turobin;Lublin;0;2
+0603011;060301;Rejowiec Fabryczny;Lublin;0;2
+0603022;060302;Białopole;Lublin;0;5
+0603032;060303;Chełm;Lublin;0;3
+0603042;060304;Dorohusk;Lublin;0;5
+0603052;060305;Dubienka;Lublin;0;5
+0603062;060306;Kamień;Lublin;0;4
+0603072;060307;Leśniowice;Lublin;0;4
+0603082;060308;Rejowiec Fabryczny;Lublin;0;2
+0603092;060309;Ruda-Huta;Lublin;0;4
+0603102;060310;Sawin;Lublin;0;3
+0603113;060311;Siedliszcze;Lublin;0;2
+0603122;060312;Wierzbica;Lublin;0;3
+0603132;060313;Wojsławice;Lublin;0;4
+0603142;060314;Żmudź;Lublin;0;4
+0603153;060315;Rejowiec;Lublin;0;3
+0604011;060401;Hrubieszów;Lublin;0;5
+0604022;060402;Dołhobyczów;Lublin;0;5
+0604032;060403;Horodło;Lublin;0;5
+0604042;060404;Hrubieszów;Lublin;0;5
+0604052;060405;Mircze;Lublin;0;5
+0604062;060406;Trzeszczany;Lublin;0;5
+0604072;060407;Uchanie;Lublin;0;5
+0604082;060408;Werbkowice;Lublin;0;5
+0605012;060501;Batorz;Lublin;0;2
+0605022;060502;Chrzanów;Lublin;0;3
+0605032;060503;Dzwola;Lublin;0;3
+0605042;060504;Godziszów;Lublin;0;3
+0605053;060505;Janów Lubelski;Lublin;0;4
+0605063;060506;Modliborzyce;Lublin;0;3
+0605072;060507;Potok Wielki;Lublin;0;3
+0606011;060601;Krasnystaw;Lublin;0;3
+0606022;060602;Fajsławice;Lublin;0;1
+0606032;060603;Gorzków;Lublin;0;2
+0606043;060604;Izbica;Lublin;0;3
+0606052;060605;Krasnystaw;Lublin;0;2
+0606062;060606;Kraśniczyn;Lublin;0;4
+0606072;060607;Łopiennik Górny;Lublin;0;2
+0606092;060609;Rudnik;Lublin;0;2
+0606102;060610;Siennica Różana;Lublin;0;3
+0606112;060611;Żółkiewka;Lublin;0;2
+0607011;060701;Kraśnik;Lublin;0;2
+0607023;060702;Annopol;Lublin;0;3
+0607032;060703;Dzierzkowice;Lublin;0;2
+0607042;060704;Gościeradów;Lublin;0;3
+0607052;060705;Kraśnik;Lublin;0;2
+0607062;060706;Szastarka;Lublin;0;2
+0607072;060707;Trzydnik Duży;Lublin;0;3
+0607083;060708;Urzędów;Lublin;0;2
+0607092;060709;Wilkołaz;Lublin;0;1
+0607102;060710;Zakrzówek;Lublin;0;2
+0608011;060801;Lubartów;Lublin;0;1
+0608022;060802;Abramów;Lublin;0;1
+0608032;060803;Firlej;Lublin;0;2
+0608042;060804;Jeziorzany;Lublin;0;2
+0608053;060805;Kamionka;Lublin;0;1
+0608063;060806;Kock;Lublin;0;2
+0608072;060807;Lubartów;Lublin;0;1
+0608082;060808;Michów;Lublin;0;2
+0608092;060809;Niedźwiada;Lublin;0;2
+0608103;060810;Ostrów Lubelski;Lublin;0;1
+0608112;060811;Ostrówek;Lublin;0;2
+0608122;060812;Serniki;Lublin;0;1
+0608132;060813;Uścimów;Lublin;0;2
+0609013;060901;Bełżyce;Lublin;0;1
+0609022;060902;Borzechów;Lublin;0;1
+0609033;060903;Bychawa;Lublin;0;1
+0609042;060904;Garbów;Lublin;0;1
+0609052;060905;Głusk;Lublin;0;1
+0609062;060906;Jabłonna;Lublin;0;1
+0609072;060907;Jastków;Lublin;0;1
+0609082;060908;Konopnica;Lublin;0;1
+0609092;060909;Krzczonów;Lublin;0;1
+0609102;060910;Niedrzwica Duża;Lublin;0;1
+0609112;060911;Niemce;Lublin;0;1
+0609122;060912;Strzyżewice;Lublin;0;1
+0609132;060913;Wojciechów;Lublin;0;1
+0609142;060914;Wólka;Lublin;0;1
+0609152;060915;Wysokie;Lublin;0;2
+0609162;060916;Zakrzew;Lublin;0;2
+0610012;061001;Cyców;Lublin;0;2
+0610022;061002;Ludwin;Lublin;0;1
+0610033;061003;Łęczna;Lublin;0;1
+0610042;061004;Milejów;Lublin;0;1
+0610052;061005;Puchaczów;Lublin;0;1
+0610062;061006;Spiczyn;Lublin;0;1
+0611011;061101;Łuków;Warszawa;0;4
+0611021;061102;Stoczek Łukowski;Warszawa;0;2
+0611032;061103;Adamów;Warszawa;0;4
+0611042;061104;Krzywda;Warszawa;0;3
+0611052;061105;Łuków;Warszawa;0;4
+0611062;061106;Serokomla;Lublin;0;3
+0611072;061107;Stanin;Warszawa;0;3
+0611082;061108;Stoczek Łukowski;Warszawa;0;3
+0611092;061109;Trzebieszów;Warszawa;0;4
+0611102;061110;Wojcieszków;Warszawa;0;4
+0611112;061111;Wola Mysłowska;Warszawa;0;3
+0612012;061201;Chodel;Lublin;0;1
+0612023;061202;Józefów nad Wisłą;Lublin;0;3
+0612032;061203;Karczmiska;Lublin;0;2
+0612042;061204;Łaziska;Lublin;0;3
+0612053;061205;Opole Lubelskie;Lublin;0;2
+0612063;061206;Poniatowa;Lublin;0;1
+0612072;061207;Wilków;Lublin;0;2
+0613012;061301;Dębowa Kłoda;Lublin;0;3
+0613022;061302;Jabłoń;Lublin;0;3
+0613032;061303;Milanów;Lublin;0;3
+0613043;061304;Parczew;Lublin;0;2
+0613052;061305;Podedwórze;Lublin;0;4
+0613062;061306;Siemień;Lublin;0;2
+0613072;061307;Sosnowica;Lublin;0;2
+0614011;061401;Puławy;Lublin;0;2
+0614022;061402;Baranów;Lublin;0;2
+0614032;061403;Janowiec;Lublin;0;2
+0614043;061404;Kazimierz Dolny;Lublin;0;2
+0614053;061405;Końskowola;Lublin;0;2
+0614063;061406;Kurów;Lublin;0;1
+0614072;061407;Markuszów;Lublin;0;1
+0614083;061408;Nałęczów;Lublin;0;1
+0614092;061409;Puławy;Lublin;0;3
+0614103;061410;Wąwolnica;Lublin;0;1
+0614112;061411;Żyrzyn;Lublin;0;2
+0615011;061501;Radzyń Podlaski;Lublin;0;3
+0615022;061502;Borki;Lublin;0;3
+0615033;061503;Czemierniki;Lublin;0;3
+0615042;061504;Kąkolewnica;Warszawa;0;5
+0615052;061505;Komarówka Podlaska;Lublin;0;4
+0615062;061506;Radzyń Podlaski;Lublin;0;3
+0615072;061507;Ulan-Majorat;Warszawa;0;4
+0615082;061508;Wohyń;Lublin;0;3
+0616011;061601;Dęblin;Warszawa;0;4
+0616022;061602;Kłoczew;Warszawa;0;3
+0616032;061603;Nowodwór;Warszawa;0;4
+0616043;061604;Ryki;Warszawa;0;3
+0616052;061605;Stężyca;Warszawa;0;3
+0616062;061606;Ułęż;Lublin;0;3
+0617011;061701;Świdnik;Lublin;0;1
+0617022;061702;Mełgiew;Lublin;0;1
+0617033;061703;Piaski;Lublin;0;1
+0617042;061704;Rybczewice;Lublin;0;1
+0617052;061705;Trawniki;Lublin;0;1
+0618011;061801;Tomaszów Lubelski;Lublin;0;5
+0618022;061802;Bełżec;Lublin;0;5
+0618032;061803;Jarczów;Lublin;0;5
+0618042;061804;Krynice;Lublin;0;5
+0618053;061805;Lubycza Królewska;Lublin;0;5
+0618063;061806;Łaszczów;Lublin;0;5
+0618072;061807;Rachanie;Lublin;0;5
+0618082;061808;Susiec;Lublin;0;5
+0618092;061809;Tarnawatka;Lublin;0;5
+0618102;061810;Telatyn;Lublin;0;5
+0618112;061811;Tomaszów Lubelski;Lublin;0;5
+0618123;061812;Tyszowce;Lublin;0;5
+0618132;061813;Ulhówek;Lublin;0;5
+0619011;061901;Włodawa;Lublin;0;4
+0619022;061902;Hanna;Lublin;0;5
+0619032;061903;Hańsk;Lublin;0;3
+0619042;061904;Stary Brus;Lublin;0;3
+0619052;061905;Urszulin;Lublin;0;2
+0619062;061906;Włodawa;Lublin;0;4
+0619072;061907;Wola Uhruska;Lublin;0;4
+0619082;061908;Wyryki;Lublin;0;4
+0620012;062001;Adamów;Lublin;0;5
+0620022;062002;Grabowiec;Lublin;0;5
+0620032;062003;Komarów-Osada;Lublin;0;5
+0620043;062004;Krasnobród;Lublin;0;5
+0620052;062005;Łabunie;Lublin;0;5
+0620062;062006;Miączyn;Lublin;0;5
+0620072;062007;Nielisz;Lublin;0;3
+0620082;062008;Radecznica;Lublin;0;3
+0620092;062009;Sitno;Lublin;0;4
+0620102;062010;Skierbieszów;Lublin;0;4
+0620112;062011;Stary Zamość;Lublin;0;4
+0620122;062012;Sułów;Lublin;0;3
+0620133;062013;Szczebrzeszyn;Lublin;0;4
+0620142;062014;Zamość;Lublin;0;4
+0620153;062015;Zwierzyniec;Lublin;0;4
+0661011;066101;Biała Podlaska;Warszawa;0;5
+0662011;066201;Chełm;Lublin;0;4
+0663011;066301;Lublin;Lublin;1;0
+0664011;066401;Zamość;Lublin;0;4
+0801011;080101;Kostrzyn nad Odrą;Gorzów Wielkopolski;0;4
+0801022;080102;Bogdaniec;Gorzów Wielkopolski;0;1
+0801032;080103;Deszczno;Gorzów Wielkopolski;0;1
+0801042;080104;Kłodawa;Gorzów Wielkopolski;0;1
+0801052;080105;Lubiszyn;Gorzów Wielkopolski;0;1
+0801062;080106;Santok;Gorzów Wielkopolski;0;1
+0801073;080107;Witnica;Gorzów Wielkopolski;0;2
+0802011;080201;Gubin;Zielona Góra;0;5
+0802022;080202;Bobrowice;Zielona Góra;0;2
+0802032;080203;Bytnica;Zielona Góra;0;2
+0802042;080204;Dąbie;Zielona Góra;0;1
+0802052;080205;Gubin;Zielona Góra;0;5
+0802063;080206;Krosno Odrzańskie;Zielona Góra;0;2
+0802072;080207;Maszewo;Zielona Góra;0;4
+0803012;080301;Bledzew;Gorzów Wielkopolski;0;2
+0803023;080302;Międzyrzecz;Gorzów Wielkopolski;0;4
+0803032;080303;Przytoczna;Gorzów Wielkopolski;0;4
+0803042;080304;Pszczew;Gorzów Wielkopolski;0;5
+0803053;080305;Skwierzyna;Gorzów Wielkopolski;0;2
+0803063;080306;Trzciel;Poznań;0;5
+0804011;080401;Nowa Sól;Zielona Góra;0;1
+0804023;080402;Bytom Odrzański;Zielona Góra;0;2
+0804032;080403;Kolsko;Zielona Góra;0;2
+0804043;080404;Kożuchów;Zielona Góra;0;1
+0804052;080405;Nowa Sól;Zielona Góra;0;1
+0804063;080406;Nowe Miasteczko;Zielona Góra;0;2
+0804073;080407;Otyń;Zielona Góra;0;1
+0804082;080408;Siedlisko;Zielona Góra;0;2
+0805013;080501;Cybinka;Zielona Góra;0;5
+0805022;080502;Górzyca;Gorzów Wielkopolski;0;4
+0805033;080503;Ośno Lubuskie;Gorzów Wielkopolski;0;4
+0805043;080504;Rzepin;Gorzów Wielkopolski;0;5
+0805053;080505;Słubice;Gorzów Wielkopolski;0;5
+0806013;080601;Dobiegniew;Gorzów Wielkopolski;0;5
+0806023;080602;Drezdenko;Gorzów Wielkopolski;0;4
+0806032;080603;Stare Kurowo;Gorzów Wielkopolski;0;3
+0806043;080604;Strzelce Krajeńskie;Gorzów Wielkopolski;0;3
+0806052;080605;Zwierzyn;Gorzów Wielkopolski;0;2
+0807012;080701;Krzeszyce;Gorzów Wielkopolski;0;1
+0807023;080702;Lubniewice;Gorzów Wielkopolski;0;2
+0807032;080703;Słońsk;Gorzów Wielkopolski;0;3
+0807043;080704;Sulęcin;Gorzów Wielkopolski;0;3
+0807053;080705;Torzym;Gorzów Wielkopolski;0;5
+0808012;080801;Lubrza;Zielona Góra;0;4
+0808022;080802;Łagów;Zielona Góra;0;4
+0808032;080803;Skąpe;Zielona Góra;0;2
+0808042;080804;Szczaniec;Zielona Góra;0;3
+0808053;080805;Świebodzin;Zielona Góra;0;3
+0808063;080806;Zbąszynek;Zielona Góra;0;4
+0809013;080901;Babimost;Zielona Góra;0;2
+0809022;080902;Bojadła;Zielona Góra;0;1
+0809033;080903;Czerwieńsk;Zielona Góra;0;1
+0809043;080904;Kargowa;Zielona Góra;0;2
+0809053;080905;Nowogród Bobrzański;Zielona Góra;0;1
+0809063;080906;Sulechów;Zielona Góra;0;1
+0809072;080907;Świdnica;Zielona Góra;0;1
+0809082;080908;Trzebiechów;Zielona Góra;0;1
+0809092;080909;Zabór;Zielona Góra;0;1
+0810011;081001;Gozdnica;Zielona Góra;0;5
+0810021;081002;Żagań;Zielona Góra;0;3
+0810032;081003;Brzeźnica;Zielona Góra;0;2
+0810043;081004;Iłowa;Zielona Góra;0;5
+0810053;081005;Małomice;Zielona Góra;0;4
+0810062;081006;Niegosławice;Zielona Góra;0;3
+0810073;081007;Szprotawa;Zielona Góra;0;3
+0810082;081008;Wymiarki;Zielona Góra;0;5
+0810092;081009;Żagań;Zielona Góra;0;3
+0811011;081101;Łęknica;Zielona Góra;0;5
+0811021;081102;Żary;Zielona Góra;0;4
+0811033;081103;Brody;Zielona Góra;0;5
+0811043;081104;Jasień;Zielona Góra;0;3
+0811052;081105;Lipinki Łużyckie;Zielona Góra;0;4
+0811063;081106;Lubsko;Zielona Góra;0;3
+0811072;081107;Przewóz;Zielona Góra;0;5
+0811082;081108;Trzebiel;Zielona Góra;0;5
+0811092;081109;Tuplice;Zielona Góra;0;5
+0811102;081110;Żary;Zielona Góra;0;3
+0812013;081201;Sława;Zielona Góra;0;2
+0812023;081202;Szlichtyngowa;Wrocław;0;4
+0812033;081203;Wschowa;Poznań;0;5
+0861011;086101;Gorzów Wielkopolski;Gorzów Wielkopolski;1;0
+0862011;086201;Zielona Góra;Zielona Góra;1;0
+1001011;100101;Bełchatów;Łódź;0;2
+1001022;100102;Bełchatów;Łódź;0;2
+1001032;100103;Drużbice;Łódź;0;1
+1001042;100104;Kleszczów;Łódź;0;3
+1001052;100105;Kluki;Łódź;0;2
+1001062;100106;Rusiec;Łódź;0;3
+1001072;100107;Szczerców;Łódź;0;3
+1001083;100108;Zelów;Łódź;0;2
+1002011;100201;Kutno;Łódź;0;2
+1002022;100202;Bedlno;Łódź;0;2
+1002033;100203;Dąbrowice;Łódź;0;3
+1002043;100204;Krośniewice;Łódź;0;3
+1002052;100205;Krzyżanów;Łódź;0;2
+1002062;100206;Kutno;Łódź;0;2
+1002072;100207;Łanięta;Łódź;0;3
+1002082;100208;Nowe Ostrowy;Łódź;0;3
+1002092;100209;Oporów;Łódź;0;3
+1002102;100210;Strzelce;Łódź;0;3
+1002113;100211;Żychlin;Łódź;0;3
+1003012;100301;Buczek;Łódź;0;1
+1003023;100302;Łask;Łódź;0;1
+1003032;100303;Sędziejowice;Łódź;0;2
+1003042;100304;Widawa;Łódź;0;3
+1003052;100305;Wodzierady;Łódź;0;1
+1004011;100401;Łęczyca;Łódź;0;2
+1004022;100402;Daszyna;Łódź;0;2
+1004032;100403;Góra Świętej Małgorzaty;Łódź;0;1
+1004043;100404;Grabów;Łódź;0;3
+1004052;100405;Łęczyca;Łódź;0;2
+1004063;100406;Piątek;Łódź;0;1
+1004072;100407;Świnice Warckie;Łódź;0;2
+1004082;100408;Witonia;Łódź;0;2
+1005011;100501;Łowicz;Łódź;0;2
+1005022;100502;Bielawy;Łódź;0;2
+1005032;100503;Chąśno;Warszawa;0;3
+1005042;100504;Domaniewice;Łódź;0;2
+1005053;100505;Kiernozia;Warszawa;0;3
+1005062;100506;Kocierzew Południowy;Warszawa;0;3
+1005072;100507;Łowicz;Łódź;0;2
+1005082;100508;Łyszkowice;Łódź;0;2
+1005092;100509;Nieborów;Warszawa;0;2
+1005102;100510;Zduny;Łódź;0;2
+1006022;100602;Andrespol;Łódź;0;1
+1006032;100603;Brójce;Łódź;0;1
+1006073;100607;Koluszki;Łódź;0;1
+1006082;100608;Nowosolna;Łódź;0;1
+1006103;100610;Rzgów;Łódź;0;1
+1006113;100611;Tuszyn;Łódź;0;1
+1007013;100701;Białaczów;Łódź;0;4
+1007023;100702;Drzewica;Warszawa;0;4
+1007032;100703;Mniszków;Łódź;0;3
+1007043;100704;Opoczno;Łódź;0;4
+1007052;100705;Paradyż;Łódź;0;3
+1007062;100706;Poświętne;Warszawa;0;3
+1007072;100707;Sławno;Łódź;0;3
+1007083;100708;Żarnów;Łódź;0;4
+1008011;100801;Konstantynów Łódzki;Łódź;0;1
+1008021;100802;Pabianice;Łódź;0;1
+1008032;100803;Dłutów;Łódź;0;1
+1008042;100804;Dobroń;Łódź;0;1
+1008052;100805;Ksawerów;Łódź;0;1
+1008063;100806;Lutomiersk;Łódź;0;1
+1008072;100807;Pabianice;Łódź;0;1
+1009013;100901;Działoszyn;Łódź;0;5
+1009022;100902;Kiełczygłów;Łódź;0;4
+1009032;100903;Nowa Brzeźnica;Łódź;0;4
+1009043;100904;Pajęczno;Łódź;0;4
+1009052;100905;Rząśnia;Łódź;0;3
+1009062;100906;Siemkowice;Łódź;0;4
+1009072;100907;Strzelce Wielkie;Łódź;0;4
+1009082;100908;Sulmierzyce;Łódź;0;3
+1010012;101001;Aleksandrów;Łódź;0;3
+1010022;101002;Czarnocin;Łódź;0;1
+1010032;101003;Gorzkowice;Łódź;0;3
+1010042;101004;Grabica;Łódź;0;1
+1010052;101005;Łęki Szlacheckie;Łódź;0;3
+1010062;101006;Moszczenica;Łódź;0;1
+1010072;101007;Ręczno;Łódź;0;4
+1010083;101008;Rozprza;Łódź;0;3
+1010093;101009;Sulejów;Łódź;0;2
+1010102;101010;Wola Krzysztoporska;Łódź;0;2
+1010113;101011;Wolbórz;Łódź;0;2
+1011012;101101;Dalików;Łódź;0;1
+1011022;101102;Pęczniew;Łódź;0;2
+1011033;101103;Poddębice;Łódź;0;2
+1011043;101104;Uniejów;Łódź;0;3
+1011052;101105;Wartkowice;Łódź;0;2
+1011062;101106;Zadzim;Łódź;0;2
+1012011;101201;Radomsko;Łódź;0;4
+1012022;101202;Dobryszyce;Łódź;0;4
+1012032;101203;Gidle;Łódź;0;5
+1012042;101204;Gomunice;Łódź;0;3
+1012053;101205;Kamieńsk;Łódź;0;3
+1012062;101206;Kobiele Wielkie;Łódź;0;5
+1012072;101207;Kodrąb;Łódź;0;4
+1012082;101208;Lgota Wielka;Łódź;0;4
+1012092;101209;Ładzice;Łódź;0;4
+1012102;101210;Masłowice;Łódź;0;4
+1012113;101211;Przedbórz;Kielce;0;5
+1012122;101212;Radomsko;Łódź;0;4
+1012132;101213;Wielgomłyny;Łódź;0;5
+1012142;101214;Żytno;Kraków;0;5
+1013011;101301;Rawa Mazowiecka;Warszawa;0;3
+1013023;101302;Biała Rawska;Warszawa;0;2
+1013032;101303;Cielądz;Warszawa;0;3
+1013042;101304;Rawa Mazowiecka;Łódź;0;2
+1013052;101305;Regnów;Warszawa;0;2
+1013062;101306;Sadkowice;Warszawa;0;2
+1014011;101401;Sieradz;Łódź;0;3
+1014023;101402;Błaszki;Łódź;0;4
+1014032;101403;Brąszewice;Łódź;0;4
+1014042;101404;Brzeźnio;Łódź;0;3
+1014052;101405;Burzenin;Łódź;0;3
+1014062;101406;Goszczanów;Łódź;0;3
+1014072;101407;Klonowa;Łódź;0;4
+1014082;101408;Sieradz;Łódź;0;3
+1014093;101409;Warta;Łódź;0;3
+1014102;101410;Wróblew;Łódź;0;3
+1014113;101411;Złoczew;Łódź;0;4
+1015013;101501;Bolimów;Warszawa;0;2
+1015022;101502;Głuchów;Łódź;0;2
+1015032;101503;Godzianów;Łódź;0;2
+1015042;101504;Kowiesy;Warszawa;0;2
+1015052;101505;Lipce Reymontowskie;Łódź;0;1
+1015062;101506;Maków;Łódź;0;2
+1015072;101507;Nowy Kawęczyn;Warszawa;0;2
+1015082;101508;Skierniewice;Warszawa;0;2
+1015092;101509;Słupia;Łódź;0;1
+1016011;101601;Tomaszów Mazowiecki;Łódź;0;2
+1016022;101602;Będków;Łódź;0;1
+1016032;101603;Budziszewice;Łódź;0;2
+1016042;101604;Czerniewice;Łódź;0;2
+1016053;101605;Inowłódz;Łódź;0;3
+1016062;101606;Lubochnia;Łódź;0;2
+1016072;101607;Rokiciny;Łódź;0;1
+1016082;101608;Rzeczyca;Łódź;0;3
+1016092;101609;Tomaszów Mazowiecki;Łódź;0;2
+1016103;101610;Ujazd;Łódź;0;1
+1016112;101611;Żelechlinek;Łódź;0;2
+1017012;101701;Biała;Łódź;0;5
+1017022;101702;Czarnożyły;Łódź;0;5
+1017032;101703;Konopnica;Łódź;0;3
+1017042;101704;Mokrsko;Łódź;0;5
+1017053;101705;Osjaków;Łódź;0;4
+1017062;101706;Ostrówek;Łódź;0;4
+1017072;101707;Pątnów;Łódź;0;5
+1017082;101708;Skomlin;Wrocław;0;5
+1017093;101709;Wieluń;Łódź;0;5
+1017102;101710;Wierzchlas;Łódź;0;5
+1018013;101801;Bolesławiec;Wrocław;0;4
+1018022;101802;Czastary;Wrocław;0;5
+1018032;101803;Galewice;Wrocław;0;5
+1018043;101804;Lututów;Łódź;0;5
+1018052;101805;Łubnice;Wrocław;0;5
+1018062;101806;Sokolniki;Łódź;0;5
+1018073;101807;Wieruszów;Wrocław;0;4
+1019011;101901;Zduńska Wola;Łódź;0;2
+1019023;101902;Szadek;Łódź;0;2
+1019032;101903;Zapolice;Łódź;0;2
+1019042;101904;Zduńska Wola;Łódź;0;2
+1020011;102001;Głowno;Łódź;0;1
+1020021;102002;Ozorków;Łódź;0;1
+1020031;102003;Zgierz;Łódź;0;1
+1020043;102004;Aleksandrów Łódzki;Łódź;0;1
+1020052;102005;Głowno;Łódź;0;1
+1020062;102006;Ozorków;Łódź;0;1
+1020073;102007;Parzęczew;Łódź;0;1
+1020083;102008;Stryków;Łódź;0;1
+1020092;102009;Zgierz;Łódź;0;1
+1021011;102101;Brzeziny;Łódź;0;1
+1021022;102102;Brzeziny;Łódź;0;1
+1021032;102103;Dmosin;Łódź;0;1
+1021043;102104;Jeżów;Łódź;0;1
+1021052;102105;Rogów;Łódź;0;1
+1061011;106101;Łódź;Łódź;1;0
+1062011;106201;Piotrków Trybunalski;Łódź;0;2
+1063011;106301;Skierniewice;Warszawa;0;2
+1201011;120101;Bochnia;Kraków;0;1
+1201022;120102;Bochnia;Kraków;0;1
+1201032;120103;Drwinia;Kraków;0;1
+1201042;120104;Lipnica Murowana;Kraków;0;2
+1201052;120105;Łapanów;Kraków;0;1
+1201063;120106;Nowy Wiśnicz;Kraków;0;2
+1201072;120107;Rzezawa;Kraków;0;2
+1201082;120108;Trzciana;Kraków;0;2
+1201092;120109;Żegocina;Kraków;0;2
+1202012;120201;Borzęcin;Kraków;0;3
+1202023;120202;Brzesko;Kraków;0;2
+1202033;120203;Czchów;Kraków;0;3
+1202042;120204;Dębno;Kraków;0;3
+1202052;120205;Gnojnik;Kraków;0;2
+1202062;120206;Iwkowa;Kraków;0;3
+1202072;120207;Szczurowa;Kraków;0;2
+1203013;120301;Alwernia;Kraków;0;1
+1203022;120302;Babice;Kraków;0;2
+1203033;120303;Chrzanów;Katowice;0;2
+1203043;120304;Libiąż;Katowice;0;2
+1203053;120305;Trzebinia;Kraków;0;2
+1204012;120401;Bolesław;Kraków;0;4
+1204023;120402;Dąbrowa Tarnowska;Kraków;0;4
+1204032;120403;Gręboszów;Kraków;0;3
+1204042;120404;Mędrzechów;Kraków;0;4
+1204052;120405;Olesno;Kraków;0;4
+1204062;120406;Radgoszcz;Kraków;0;5
+1204073;120407;Szczucin;Kraków;0;5
+1205011;120501;Gorlice;Kraków;0;5
+1205023;120502;Biecz;Kraków;0;5
+1205033;120503;Bobowa;Kraków;0;4
+1205042;120504;Gorlice;Kraków;0;5
+1205052;120505;Lipinki;Rzeszów;0;5
+1205062;120506;Łużna;Kraków;0;5
+1205072;120507;Moszczenica;Kraków;0;5
+1205082;120508;Ropa;Kraków;0;5
+1205092;120509;Sękowa;Kraków;0;5
+1205102;120510;Uście Gorlickie;Kraków;0;5
+1206012;120601;Czernichów;Kraków;0;1
+1206022;120602;Igołomia-Wawrzeńczyce;Kraków;0;1
+1206032;120603;Iwanowice;Kraków;0;1
+1206042;120604;Jerzmanowice-Przeginia;Kraków;0;1
+1206052;120605;Kocmyrzów-Luborzyca;Kraków;0;1
+1206063;120606;Krzeszowice;Kraków;0;1
+1206072;120607;Liszki;Kraków;0;1
+1206082;120608;Michałowice;Kraków;0;1
+1206092;120609;Mogilany;Kraków;0;1
+1206103;120610;Skała;Kraków;0;1
+1206113;120611;Skawina;Kraków;0;1
+1206123;120612;Słomniki;Kraków;0;1
+1206132;120613;Sułoszowa;Kraków;0;1
+1206143;120614;Świątniki Górne;Kraków;0;1
+1206152;120615;Wielka Wieś;Kraków;0;1
+1206162;120616;Zabierzów;Kraków;0;1
+1206172;120617;Zielonki;Kraków;0;1
+1207011;120701;Limanowa;Kraków;0;2
+1207021;120702;Mszana Dolna;Kraków;0;2
+1207032;120703;Dobra;Kraków;0;2
+1207042;120704;Jodłownik;Kraków;0;1
+1207052;120705;Kamienica;Kraków;0;3
+1207062;120706;Laskowa;Kraków;0;2
+1207072;120707;Limanowa;Kraków;0;3
+1207082;120708;Łukowica;Kraków;0;3
+1207092;120709;Mszana Dolna;Kraków;0;2
+1207102;120710;Niedźwiedź;Kraków;0;3
+1207112;120711;Słopnice;Kraków;0;2
+1207122;120712;Tymbark;Kraków;0;2
+1207132;120713;Szczawa;Kraków;0;3
+1208012;120801;Charsznica;Kraków;0;2
+1208022;120802;Gołcza;Kraków;0;1
+1208032;120803;Kozłów;Kraków;0;2
+1208043;120804;Książ Wielki;Kraków;0;2
+1208053;120805;Miechów;Kraków;0;1
+1208062;120806;Racławice;Kraków;0;2
+1208072;120807;Słaboszów;Kraków;0;2
+1209013;120901;Dobczyce;Kraków;0;1
+1209022;120902;Lubień;Kraków;0;2
+1209033;120903;Myślenice;Kraków;0;1
+1209042;120904;Pcim;Kraków;0;1
+1209052;120905;Raciechowice;Kraków;0;1
+1209062;120906;Siepraw;Kraków;0;1
+1209073;120907;Sułkowice;Kraków;0;1
+1209082;120908;Tokarnia;Kraków;0;2
+1209092;120909;Wiśniowa;Kraków;0;1
+1210011;121001;Grybów;Kraków;0;5
+1210022;121002;Chełmiec;Kraków;0;4
+1210032;121003;Gródek nad Dunajcem;Kraków;0;3
+1210042;121004;Grybów;Kraków;0;5
+1210052;121005;Kamionka Wielka;Kraków;0;5
+1210062;121006;Korzenna;Kraków;0;4
+1210073;121007;Krynica-Zdrój;Kraków;0;5
+1210082;121008;Łabowa;Kraków;0;5
+1210092;121009;Łącko;Kraków;0;4
+1210102;121010;Łososina Dolna;Kraków;0;3
+1210113;121011;Muszyna;Kraków;0;5
+1210122;121012;Nawojowa;Kraków;0;4
+1210133;121013;Piwniczna-Zdrój;Kraków;0;5
+1210142;121014;Podegrodzie;Kraków;0;4
+1210152;121015;Rytro;Kraków;0;5
+1210163;121016;Stary Sącz;Kraków;0;4
+1211011;121101;Nowy Targ;Kraków;0;3
+1211023;121102;Szczawnica;Kraków;0;5
+1211033;121103;Czarny Dunajec;Kraków;0;4
+1211042;121104;Czorsztyn;Kraków;0;4
+1211052;121105;Jabłonka;Kraków;0;4
+1211062;121106;Krościenko nad Dunajcem;Kraków;0;4
+1211072;121107;Lipnica Wielka;Kraków;0;4
+1211082;121108;Łapsze Niżne;Kraków;0;4
+1211092;121109;Nowy Targ;Kraków;0;3
+1211102;121110;Ochotnica Dolna;Kraków;0;3
+1211112;121111;Raba Wyżna;Kraków;0;3
+1211123;121112;Rabka-Zdrój;Kraków;0;3
+1211132;121113;Spytkowice;Kraków;0;3
+1211142;121114;Szaflary;Kraków;0;4
+1212011;121201;Bukowno;Katowice;0;2
+1212032;121203;Bolesław;Kraków;0;2
+1212042;121204;Klucze;Kraków;0;2
+1212053;121205;Olkusz;Kraków;0;2
+1212062;121206;Trzyciąż;Kraków;0;1
+1212073;121207;Wolbrom;Kraków;0;2
+1213011;121301;Oświęcim;Katowice;0;2
+1213023;121302;Brzeszcze;Katowice;0;2
+1213033;121303;Chełmek;Katowice;0;2
+1213043;121304;Kęty;Katowice;0;3
+1213052;121305;Osiek;Kraków;0;3
+1213062;121306;Oświęcim;Katowice;0;2
+1213072;121307;Polanka Wielka;Katowice;0;3
+1213082;121308;Przeciszów;Kraków;0;2
+1213093;121309;Zator;Kraków;0;2
+1214012;121401;Koniusza;Kraków;0;1
+1214023;121402;Koszyce;Kraków;0;2
+1214033;121403;Nowe Brzesko;Kraków;0;1
+1214042;121404;Pałecznica;Kraków;0;1
+1214053;121405;Proszowice;Kraków;0;1
+1214062;121406;Radziemice;Kraków;0;1
+1215011;121501;Jordanów;Kraków;0;2
+1215021;121502;Sucha Beskidzka;Kraków;0;2
+1215032;121503;Budzów;Kraków;0;2
+1215042;121504;Bystra-Sidzina;Kraków;0;3
+1215052;121505;Jordanów;Kraków;0;2
+1215063;121506;Maków Podhalański;Kraków;0;2
+1215072;121507;Stryszawa;Kraków;0;3
+1215082;121508;Zawoja;Kraków;0;3
+1215092;121509;Zembrzyce;Kraków;0;2
+1216013;121601;Ciężkowice;Kraków;0;4
+1216022;121602;Gromnik;Kraków;0;4
+1216032;121603;Lisia Góra;Kraków;0;4
+1216042;121604;Pleśna;Kraków;0;4
+1216053;121605;Radłów;Kraków;0;3
+1216063;121606;Ryglice;Kraków;0;5
+1216072;121607;Rzepiennik Strzyżewski;Kraków;0;5
+1216082;121608;Skrzyszów;Kraków;0;5
+1216092;121609;Tarnów;Kraków;0;4
+1216103;121610;Tuchów;Kraków;0;4
+1216112;121611;Wierzchosławice;Kraków;0;3
+1216122;121612;Wietrzychowice;Kraków;0;3
+1216133;121613;Wojnicz;Kraków;0;3
+1216143;121614;Zakliczyn;Kraków;0;3
+1216153;121615;Żabno;Kraków;0;3
+1216162;121616;Szerzyny;Kraków;0;5
+1217011;121701;Zakopane;Kraków;0;5
+1217022;121702;Biały Dunajec;Kraków;0;4
+1217032;121703;Bukowina Tatrzańska;Kraków;0;5
+1217042;121704;Kościelisko;Kraków;0;5
+1217052;121705;Poronin;Kraków;0;5
+1218013;121801;Andrychów;Kraków;0;3
+1218022;121802;Brzeźnica;Kraków;0;1
+1218033;121803;Kalwaria Zebrzydowska;Kraków;0;1
+1218042;121804;Lanckorona;Kraków;0;1
+1218052;121805;Mucharz;Kraków;0;2
+1218062;121806;Spytkowice;Kraków;0;1
+1218072;121807;Stryszów;Kraków;0;2
+1218082;121808;Tomice;Kraków;0;2
+1218093;121809;Wadowice;Kraków;0;2
+1218102;121810;Wieprz;Kraków;0;2
+1219012;121901;Biskupice;Kraków;0;1
+1219022;121902;Gdów;Kraków;0;1
+1219032;121903;Kłaj;Kraków;0;1
+1219043;121904;Niepołomice;Kraków;0;1
+1219053;121905;Wieliczka;Kraków;0;1
+1261011;126101;Kraków;Kraków;1;0
+1262011;126201;Nowy Sącz;Kraków;0;4
+1263011;126301;Tarnów;Kraków;0;4
+1401013;140101;Białobrzegi;Warszawa;0;2
+1401022;140102;Promna;Warszawa;0;2
+1401032;140103;Radzanów;Warszawa;0;3
+1401042;140104;Stara Błotnica;Warszawa;0;3
+1401052;140105;Stromiec;Warszawa;0;2
+1401063;140106;Wyśmierzyce;Warszawa;0;3
+1402011;140201;Ciechanów;Warszawa;0;3
+1402022;140202;Ciechanów;Warszawa;0;3
+1402033;140203;Glinojeck;Warszawa;0;3
+1402042;140204;Gołymin-Ośrodek;Warszawa;0;2
+1402052;140205;Grudusk;Warszawa;0;4
+1402062;140206;Ojrzeń;Warszawa;0;2
+1402072;140207;Opinogóra Górna;Warszawa;0;3
+1402082;140208;Regimin;Warszawa;0;3
+1402092;140209;Sońsk;Warszawa;0;2
+1403011;140301;Garwolin;Warszawa;0;2
+1403021;140302;Łaskarzew;Warszawa;0;2
+1403032;140303;Borowie;Warszawa;0;2
+1403042;140304;Garwolin;Warszawa;0;2
+1403052;140305;Górzno;Warszawa;0;2
+1403062;140306;Łaskarzew;Warszawa;0;2
+1403073;140307;Maciejowice;Warszawa;0;2
+1403082;140308;Miastków Kościelny;Warszawa;0;2
+1403092;140309;Parysów;Warszawa;0;2
+1403103;140310;Pilawa;Warszawa;0;1
+1403112;140311;Sobolew;Warszawa;0;2
+1403122;140312;Trojanów;Warszawa;0;3
+1403132;140313;Wilga;Warszawa;0;2
+1403143;140314;Żelechów;Warszawa;0;3
+1404011;140401;Gostynin;Łódź;0;4
+1404022;140402;Gostynin;Łódź;0;4
+1404032;140403;Pacyna;Łódź;0;3
+1404043;140404;Sanniki;Warszawa;0;3
+1404052;140405;Szczawin Kościelny;Łódź;0;3
+1405011;140501;Milanówek;Warszawa;0;1
+1405021;140502;Podkowa Leśna;Warszawa;0;1
+1405032;140503;Baranów;Warszawa;0;1
+1405043;140504;Grodzisk Mazowiecki;Warszawa;0;1
+1405052;140505;Jaktorów;Warszawa;0;1
+1405062;140506;Żabia Wola;Warszawa;0;1
+1406012;140601;Belsk Duży;Warszawa;0;2
+1406022;140602;Błędów;Warszawa;0;2
+1406032;140603;Chynów;Warszawa;0;1
+1406042;140604;Goszczyn;Warszawa;0;2
+1406053;140605;Grójec;Warszawa;0;1
+1406062;140606;Jasieniec;Warszawa;0;2
+1406073;140607;Mogielnica;Warszawa;0;2
+1406083;140608;Nowe Miasto nad Pilicą;Warszawa;0;3
+1406092;140609;Pniewy;Warszawa;0;1
+1406113;140611;Warka;Warszawa;0;2
+1407012;140701;Garbatka-Letnisko;Warszawa;0;3
+1407023;140702;Głowaczów;Warszawa;0;3
+1407032;140703;Gniewoszów;Warszawa;0;4
+1407042;140704;Grabów nad Pilicą;Warszawa;0;2
+1407053;140705;Kozienice;Warszawa;0;3
+1407063;140706;Magnuszew;Warszawa;0;2
+1407072;140707;Sieciechów;Warszawa;0;3
+1408011;140801;Legionowo;Warszawa;0;1
+1408022;140802;Jabłonna;Warszawa;0;1
+1408032;140803;Nieporęt;Warszawa;0;1
+1408043;140804;Serock;Warszawa;0;1
+1408052;140805;Wieliszew;Warszawa;0;1
+1409012;140901;Chotcza;Lublin;0;3
+1409023;140902;Ciepielów;Warszawa;0;5
+1409033;140903;Lipsko;Lublin;0;4
+1409042;140904;Rzeczniów;Warszawa;0;5
+1409053;140905;Sienno;Warszawa;0;5
+1409063;140906;Solec nad Wisłą;Lublin;0;3
+1410012;141001;Huszlew;Warszawa;0;5
+1410023;141002;Łosice;Warszawa;0;5
+1410032;141003;Olszanka;Warszawa;0;4
+1410042;141004;Platerów;Warszawa;0;5
+1410052;141005;Sarnaki;Warszawa;0;5
+1410062;141006;Stara Kornica;Warszawa;0;5
+1411011;141101;Maków Mazowiecki;Warszawa;0;3
+1411022;141102;Czerwonka;Warszawa;0;3
+1411032;141103;Karniewo;Warszawa;0;2
+1411042;141104;Krasnosielc;Warszawa;0;4
+1411052;141105;Młynarze;Warszawa;0;3
+1411062;141106;Płoniawy-Bramura;Warszawa;0;3
+1411073;141107;Różan;Warszawa;0;3
+1411082;141108;Rzewnie;Warszawa;0;2
+1411092;141109;Sypniewo;Warszawa;0;3
+1411102;141110;Szelków;Warszawa;0;2
+1412011;141201;Mińsk Mazowiecki;Warszawa;0;1
+1412043;141204;Cegłów;Warszawa;0;2
+1412052;141205;Dębe Wielkie;Warszawa;0;1
+1412063;141206;Dobre;Warszawa;0;1
+1412073;141207;Halinów;Warszawa;0;1
+1412082;141208;Jakubów;Warszawa;0;1
+1412093;141209;Kałuszyn;Warszawa;0;2
+1412103;141210;Latowicz;Warszawa;0;2
+1412112;141211;Mińsk Mazowiecki;Warszawa;0;1
+1412123;141212;Mrozy;Warszawa;0;2
+1412133;141213;Siennica;Warszawa;0;1
+1412142;141214;Stanisławów;Warszawa;0;1
+1412151;141215;Sulejówek;Warszawa;0;1
+1413011;141301;Mława;Warszawa;0;4
+1413022;141302;Dzierzgowo;Warszawa;0;4
+1413032;141303;Lipowiec Kościelny;Warszawa;0;4
+1413042;141304;Radzanów;Warszawa;0;4
+1413052;141305;Strzegowo;Warszawa;0;3
+1413062;141306;Stupsk;Warszawa;0;4
+1413072;141307;Szreńsk;Warszawa;0;4
+1413082;141308;Szydłowo;Warszawa;0;4
+1413092;141309;Wieczfnia Kościelna;Warszawa;0;5
+1413102;141310;Wiśniewo;Warszawa;0;4
+1414011;141401;Nowy Dwór Mazowiecki;Warszawa;0;1
+1414022;141402;Czosnów;Warszawa;0;1
+1414032;141403;Leoncin;Warszawa;0;1
+1414043;141404;Nasielsk;Warszawa;0;1
+1414052;141405;Pomiechówek;Warszawa;0;1
+1414063;141406;Zakroczym;Warszawa;0;1
+1415012;141501;Baranowo;Warszawa;0;4
+1415022;141502;Czarnia;Warszawa;0;5
+1415032;141503;Czerwin;Warszawa;0;4
+1415042;141504;Goworowo;Warszawa;0;3
+1415052;141505;Kadzidło;Warszawa;0;5
+1415062;141506;Lelis;Warszawa;0;4
+1415072;141507;Łyse;Warszawa;0;5
+1415083;141508;Myszyniec;Warszawa;0;5
+1415092;141509;Olszewo-Borki;Warszawa;0;4
+1415102;141510;Rzekuń;Warszawa;0;4
+1415112;141511;Troszyn;Warszawa;0;4
+1416011;141601;Ostrów Mazowiecka;Warszawa;0;3
+1416022;141602;Andrzejewo;Warszawa;0;4
+1416032;141603;Boguty-Pianki;Warszawa;0;4
+1416043;141604;Brok;Warszawa;0;3
+1416052;141605;Małkinia Górna;Warszawa;0;3
+1416062;141606;Nur;Warszawa;0;4
+1416072;141607;Ostrów Mazowiecka;Warszawa;0;3
+1416082;141608;Stary Lubotyń;Warszawa;0;4
+1416092;141609;Szulborze Wielkie;Warszawa;0;4
+1416102;141610;Wąsewo;Warszawa;0;3
+1416112;141611;Zaręby Kościelne;Warszawa;0;4
+1417011;141701;Józefów;Warszawa;0;1
+1417021;141702;Otwock;Warszawa;0;1
+1417032;141703;Celestynów;Warszawa;0;1
+1417043;141704;Karczew;Warszawa;0;1
+1417052;141705;Kołbiel;Warszawa;0;1
+1417063;141706;Osieck;Warszawa;0;1
+1417072;141707;Sobienie-Jeziory;Warszawa;0;1
+1417082;141708;Wiązowna;Warszawa;0;1
+1418013;141801;Góra Kalwaria;Warszawa;0;1
+1418023;141802;Konstancin-Jeziorna;Warszawa;0;1
+1418032;141803;Lesznowola;Warszawa;0;1
+1418043;141804;Piaseczno;Warszawa;0;1
+1418052;141805;Prażmów;Warszawa;0;1
+1418063;141806;Tarczyn;Warszawa;0;1
+1419012;141901;Bielsk;Warszawa;0;4
+1419023;141902;Bodzanów;Warszawa;0;3
+1419032;141903;Brudzeń Duży;Warszawa;0;5
+1419042;141904;Bulkowo;Warszawa;0;3
+1419053;141905;Drobin;Warszawa;0;4
+1419063;141906;Gąbin;Warszawa;0;3
+1419072;141907;Łąck;Warszawa;0;4
+1419082;141908;Mała Wieś;Warszawa;0;2
+1419092;141909;Nowy Duninów;Warszawa;0;4
+1419102;141910;Radzanowo;Warszawa;0;3
+1419112;141911;Słubice;Warszawa;0;3
+1419122;141912;Słupno;Warszawa;0;3
+1419132;141913;Stara Biała;Warszawa;0;4
+1419142;141914;Staroźreby;Warszawa;0;3
+1419153;141915;Wyszogród;Warszawa;0;2
+1420011;142001;Płońsk;Warszawa;0;2
+1420021;142002;Raciąż;Warszawa;0;3
+1420032;142003;Baboszewo;Warszawa;0;3
+1420043;142004;Czerwińsk nad Wisłą;Warszawa;0;2
+1420052;142005;Dzierzążnia;Warszawa;0;3
+1420062;142006;Joniec;Warszawa;0;2
+1420072;142007;Naruszewo;Warszawa;0;2
+1420083;142008;Nowe Miasto;Warszawa;0;2
+1420092;142009;Płońsk;Warszawa;0;2
+1420102;142010;Raciąż;Warszawa;0;3
+1420113;142011;Sochocin;Warszawa;0;2
+1420122;142012;Załuski;Warszawa;0;2
+1421011;142101;Piastów;Warszawa;0;1
+1421021;142102;Pruszków;Warszawa;0;1
+1421033;142103;Brwinów;Warszawa;0;1
+1421042;142104;Michałowice;Warszawa;0;1
+1421052;142105;Nadarzyn;Warszawa;0;1
+1421062;142106;Raszyn;Warszawa;0;1
+1422011;142201;Przasnysz;Warszawa;0;3
+1422023;142202;Chorzele;Warszawa;0;5
+1422032;142203;Czernice Borowe;Warszawa;0;4
+1422042;142204;Jednorożec;Warszawa;0;4
+1422052;142205;Krasne;Warszawa;0;3
+1422062;142206;Krzynowłoga Mała;Warszawa;0;4
+1422072;142207;Przasnysz;Warszawa;0;3
+1423012;142301;Borkowice;Warszawa;0;4
+1423023;142302;Gielniów;Warszawa;0;4
+1423032;142303;Klwów;Warszawa;0;3
+1423043;142304;Odrzywół;Warszawa;0;3
+1423052;142305;Potworów;Warszawa;0;3
+1423063;142306;Przysucha;Warszawa;0;4
+1423072;142307;Rusinów;Warszawa;0;4
+1423082;142308;Wieniawa;Warszawa;0;4
+1424012;142401;Gzy;Warszawa;0;2
+1424022;142402;Obryte;Warszawa;0;2
+1424032;142403;Pokrzywnica;Warszawa;0;1
+1424043;142404;Pułtusk;Warszawa;0;2
+1424052;142405;Świercze;Warszawa;0;2
+1424062;142406;Winnica;Warszawa;0;1
+1424072;142407;Zatory;Warszawa;0;1
+1425011;142501;Pionki;Warszawa;0;3
+1425022;142502;Gózd;Warszawa;0;4
+1425033;142503;Iłża;Warszawa;0;5
+1425042;142504;Jastrzębia;Warszawa;0;3
+1425052;142505;Jedlińsk;Warszawa;0;3
+1425063;142506;Jedlnia-Letnisko;Warszawa;0;4
+1425072;142507;Kowala;Warszawa;0;4
+1425082;142508;Pionki;Warszawa;0;3
+1425093;142509;Przytyk;Warszawa;0;3
+1425103;142510;Skaryszew;Warszawa;0;4
+1425112;142511;Wierzbica;Warszawa;0;4
+1425122;142512;Wolanów;Warszawa;0;4
+1425132;142513;Zakrzew;Warszawa;0;3
+1426012;142601;Domanice;Warszawa;0;3
+1426022;142602;Korczew;Warszawa;0;4
+1426032;142603;Kotuń;Warszawa;0;2
+1426042;142604;Mokobody;Warszawa;0;3
+1426053;142605;Mordy;Warszawa;0;4
+1426062;142606;Paprotnia;Warszawa;0;4
+1426072;142607;Przesmyki;Warszawa;0;4
+1426082;142608;Siedlce;Warszawa;0;3
+1426092;142609;Skórzec;Warszawa;0;3
+1426102;142610;Suchożebry;Warszawa;0;3
+1426112;142611;Wiśniew;Warszawa;0;3
+1426122;142612;Wodynie;Warszawa;0;2
+1426132;142613;Zbuczyn;Warszawa;0;4
+1427011;142701;Sierpc;Warszawa;0;5
+1427022;142702;Gozdowo;Warszawa;0;4
+1427032;142703;Mochowo;Warszawa;0;5
+1427042;142704;Rościszewo;Warszawa;0;5
+1427052;142705;Sierpc;Warszawa;0;5
+1427062;142706;Szczutowo;Warszawa;0;5
+1427072;142707;Zawidz;Warszawa;0;4
+1428011;142801;Sochaczew;Warszawa;0;2
+1428022;142802;Brochów;Warszawa;0;2
+1428032;142803;Iłów;Warszawa;0;2
+1428042;142804;Młodzieszyn;Warszawa;0;2
+1428052;142805;Nowa Sucha;Warszawa;0;2
+1428062;142806;Rybno;Warszawa;0;2
+1428072;142807;Sochaczew;Warszawa;0;2
+1428082;142808;Teresin;Warszawa;0;1
+1429011;142901;Sokołów Podlaski;Warszawa;0;3
+1429022;142902;Bielany;Warszawa;0;3
+1429032;142903;Ceranów;Warszawa;0;4
+1429042;142904;Jabłonna Lacka;Warszawa;0;4
+1429053;142905;Kosów Lacki;Warszawa;0;3
+1429062;142906;Repki;Warszawa;0;4
+1429072;142907;Sabnie;Warszawa;0;3
+1429082;142908;Sokołów Podlaski;Warszawa;0;3
+1429092;142909;Sterdyń;Warszawa;0;4
+1430012;143001;Chlewiska;Kielce;0;4
+1430023;143002;Jastrząb;Kielce;0;4
+1430032;143003;Mirów;Kielce;0;4
+1430042;143004;Orońsko;Warszawa;0;4
+1430053;143005;Szydłowiec;Kielce;0;4
+1432013;143201;Błonie;Warszawa;0;1
+1432022;143202;Izabelin;Warszawa;0;1
+1432032;143203;Kampinos;Warszawa;0;1
+1432042;143204;Leszno;Warszawa;0;1
+1432053;143205;Łomianki;Warszawa;0;1
+1432063;143206;Ożarów Mazowiecki;Warszawa;0;1
+1432072;143207;Stare Babice;Warszawa;0;1
+1433011;143301;Węgrów;Warszawa;0;2
+1433022;143302;Grębków;Warszawa;0;2
+1433032;143303;Korytnica;Warszawa;0;2
+1433042;143304;Liw;Warszawa;0;2
+1433053;143305;Łochów;Warszawa;0;2
+1433062;143306;Miedzna;Warszawa;0;3
+1433072;143307;Sadowne;Warszawa;0;3
+1433082;143308;Stoczek;Warszawa;0;2
+1433092;143309;Wierzbno;Warszawa;0;2
+1434011;143401;Kobyłka;Warszawa;0;1
+1434021;143402;Marki;Warszawa;0;1
+1434031;143403;Ząbki;Warszawa;0;1
+1434041;143404;Zielonka;Warszawa;0;1
+1434052;143405;Dąbrówka;Warszawa;0;1
+1434063;143406;Jadów;Warszawa;0;1
+1434072;143407;Klembów;Warszawa;0;1
+1434082;143408;Poświętne;Warszawa;0;1
+1434093;143409;Radzymin;Warszawa;0;1
+1434102;143410;Strachówka;Warszawa;0;1
+1434113;143411;Tłuszcz;Warszawa;0;1
+1434123;143412;Wołomin;Warszawa;0;1
+1435012;143501;Brańszczyk;Warszawa;0;2
+1435022;143502;Długosiodło;Warszawa;0;2
+1435032;143503;Rząśnik;Warszawa;0;2
+1435042;143504;Somianka;Warszawa;0;1
+1435053;143505;Wyszków;Warszawa;0;2
+1435062;143506;Zabrodzie;Warszawa;0;1
+1436013;143601;Kazanów;Warszawa;0;4
+1436022;143602;Policzna;Warszawa;0;4
+1436032;143603;Przyłęk;Lublin;0;3
+1436042;143604;Tczów;Warszawa;0;4
+1436053;143605;Zwoleń;Warszawa;0;4
+1437013;143701;Bieżuń;Warszawa;0;4
+1437022;143702;Kuczbork-Osada;Warszawa;0;5
+1437033;143703;Lubowidz;Warszawa;0;5
+1437042;143704;Lutocin;Warszawa;0;5
+1437052;143705;Siemiątkowo;Warszawa;0;4
+1437063;143706;Żuromin;Warszawa;0;5
+1438011;143801;Żyrardów;Warszawa;0;1
+1438023;143802;Mszczonów;Warszawa;0;1
+1438032;143803;Puszcza Mariańska;Warszawa;0;2
+1438042;143804;Radziejowice;Warszawa;0;1
+1438053;143805;Wiskitki;Warszawa;0;2
+1461011;146101;Ostrołęka;Warszawa;0;4
+1462011;146201;Płock;Warszawa;0;4
+1463011;146301;Radom;Warszawa;0;4
+1464011;146401;Siedlce;Warszawa;0;3
+1465011;146501;Warszawa;Warszawa;1;0
+1601011;160101;Brzeg;Wrocław;0;1
+1601022;160102;Skarbimierz;Wrocław;0;1
+1601033;160103;Grodków;Wrocław;0;2
+1601043;160104;Lewin Brzeski;Opole;0;2
+1601052;160105;Lubsza;Wrocław;0;2
+1601062;160106;Olszanka;Wrocław;0;2
+1602013;160201;Baborów;Katowice;0;5
+1602022;160202;Branice;Katowice;0;5
+1602033;160203;Głubczyce;Opole;0;5
+1602043;160204;Kietrz;Katowice;0;5
+1603011;160301;Kędzierzyn-Koźle;Opole;0;5
+1603022;160302;Bierawa;Katowice;0;4
+1603032;160303;Cisek;Katowice;0;5
+1603042;160304;Pawłowiczki;Opole;0;5
+1603052;160305;Polska Cerekiew;Katowice;0;5
+1603062;160306;Reńska Wieś;Opole;0;4
+1604013;160401;Byczyna;Wrocław;0;4
+1604023;160402;Kluczbork;Opole;0;4
+1604032;160403;Lasowice Wielkie;Opole;0;3
+1604043;160404;Wołczyn;Opole;0;4
+1605013;160501;Gogolin;Opole;0;2
+1605023;160502;Krapkowice;Opole;0;2
+1605033;160503;Strzeleczki;Opole;0;2
+1605042;160504;Walce;Opole;0;4
+1605053;160505;Zdzieszowice;Opole;0;3
+1606012;160601;Domaszowice;Wrocław;0;3
+1606023;160602;Namysłów;Wrocław;0;2
+1606032;160603;Pokój;Opole;0;3
+1606042;160604;Świerczów;Wrocław;0;2
+1606052;160605;Wilków;Wrocław;0;2
+1607013;160701;Głuchołazy;Wrocław;0;5
+1607022;160702;Kamiennik;Wrocław;0;3
+1607033;160703;Korfantów;Opole;0;3
+1607042;160704;Łambinowice;Opole;0;3
+1607053;160705;Nysa;Wrocław;0;4
+1607063;160706;Otmuchów;Wrocław;0;4
+1607073;160707;Paczków;Wrocław;0;4
+1607082;160708;Pakosławice;Wrocław;0;3
+1607092;160709;Skoroszyce;Wrocław;0;3
+1608013;160801;Dobrodzień;Opole;0;4
+1608023;160802;Gorzów Śląski;Opole;0;5
+1608033;160803;Olesno;Opole;0;5
+1608043;160804;Praszka;Opole;0;5
+1608052;160805;Radłów;Opole;0;5
+1608062;160806;Rudniki;Łódź;0;5
+1608072;160807;Zębowice;Opole;0;3
+1609012;160901;Chrząstowice;Opole;0;1
+1609022;160902;Dąbrowa;Opole;0;1
+1609032;160903;Dobrzeń Wielki;Opole;0;1
+1609042;160904;Komprachcice;Opole;0;1
+1609052;160905;Łubniany;Opole;0;1
+1609062;160906;Murów;Opole;0;2
+1609073;160907;Niemodlin;Opole;0;2
+1609083;160908;Ozimek;Opole;0;2
+1609092;160909;Popielów;Opole;0;2
+1609103;160910;Prószków;Opole;0;1
+1609112;160911;Tarnów Opolski;Opole;0;1
+1609123;160912;Tułowice;Opole;0;1
+1609132;160913;Turawa;Opole;0;1
+1610013;161001;Biała;Opole;0;3
+1610023;161002;Głogówek;Opole;0;4
+1610032;161003;Lubrza;Opole;0;5
+1610043;161004;Prudnik;Opole;0;5
+1611012;161101;Izbicko;Opole;0;2
+1611022;161102;Jemielnica;Opole;0;4
+1611033;161103;Kolonowskie;Opole;0;3
+1611043;161104;Leśnica;Opole;0;4
+1611053;161105;Strzelce Opolskie;Opole;0;3
+1611063;161106;Ujazd;Opole;0;4
+1611073;161107;Zawadzkie;Katowice;0;5
+1661011;166101;Opole;Opole;1;0
+1801032;180103;Czarna;Rzeszów;0;5
+1801052;180105;Lutowiska;Rzeszów;0;5
+1801083;180108;Ustrzyki Dolne;Rzeszów;0;5
+1802013;180201;Brzozów;Rzeszów;0;2
+1802022;180202;Domaradz;Rzeszów;0;1
+1802032;180203;Dydnia;Rzeszów;0;2
+1802042;180204;Haczów;Rzeszów;0;2
+1802052;180205;Jasienica Rosielna;Rzeszów;0;2
+1802062;180206;Nozdrzec;Rzeszów;0;2
+1803011;180301;Dębica;Rzeszów;0;2
+1803023;180302;Brzostek;Rzeszów;0;3
+1803032;180303;Czarna;Rzeszów;0;4
+1803042;180304;Dębica;Rzeszów;0;2
+1803052;180305;Jodłowa;Rzeszów;0;3
+1803063;180306;Pilzno;Rzeszów;0;3
+1803072;180307;Żyraków;Rzeszów;0;3
+1804011;180401;Jarosław;Rzeszów;0;3
+1804021;180402;Radymno;Rzeszów;0;4
+1804032;180403;Chłopice;Rzeszów;0;3
+1804042;180404;Jarosław;Rzeszów;0;3
+1804052;180405;Laszki;Rzeszów;0;5
+1804062;180406;Pawłosiów;Rzeszów;0;3
+1804073;180407;Pruchnik;Rzeszów;0;2
+1804082;180408;Radymno;Rzeszów;0;5
+1804092;180409;Rokietnica;Rzeszów;0;3
+1804102;180410;Roźwienica;Rzeszów;0;3
+1804112;180411;Wiązownica;Rzeszów;0;4
+1805011;180501;Jasło;Rzeszów;0;3
+1805022;180502;Brzyska;Rzeszów;0;3
+1805032;180503;Dębowiec;Rzeszów;0;4
+1805042;180504;Jasło;Rzeszów;0;3
+1805053;180505;Kołaczyce;Rzeszów;0;3
+1805062;180506;Krempna;Rzeszów;0;5
+1805072;180507;Nowy Żmigród;Rzeszów;0;4
+1805082;180508;Osiek Jasielski;Rzeszów;0;4
+1805092;180509;Skołyszyn;Rzeszów;0;4
+1805112;180511;Tarnowiec;Rzeszów;0;3
+1806012;180601;Cmolas;Rzeszów;0;2
+1806023;180602;Kolbuszowa;Rzeszów;0;1
+1806032;180603;Majdan Królewski;Rzeszów;0;3
+1806042;180604;Niwiska;Rzeszów;0;2
+1806052;180605;Raniżów;Rzeszów;0;1
+1806062;180606;Dzikowiec;Rzeszów;0;2
+1807012;180701;Chorkówka;Rzeszów;0;3
+1807023;180702;Dukla;Rzeszów;0;4
+1807033;180703;Iwonicz-Zdrój;Rzeszów;0;3
+1807043;180704;Jedlicze;Rzeszów;0;2
+1807052;180705;Korczyna;Rzeszów;0;2
+1807062;180706;Krościenko Wyżne;Rzeszów;0;2
+1807072;180707;Miejsce Piastowe;Rzeszów;0;3
+1807083;180708;Rymanów;Rzeszów;0;4
+1807092;180709;Wojaszówka;Rzeszów;0;2
+1807102;180710;Jaśliska;Rzeszów;0;5
+1808011;180801;Leżajsk;Rzeszów;0;2
+1808022;180802;Grodzisko Dolne;Rzeszów;0;2
+1808032;180803;Kuryłówka;Rzeszów;0;3
+1808042;180804;Leżajsk;Rzeszów;0;2
+1808053;180805;Nowa Sarzyna;Rzeszów;0;2
+1809011;180901;Lubaczów;Rzeszów;0;5
+1809023;180902;Cieszanów;Rzeszów;0;5
+1809032;180903;Horyniec-Zdrój;Rzeszów;0;5
+1809042;180904;Lubaczów;Rzeszów;0;5
+1809053;180905;Narol;Lublin;0;5
+1809063;180906;Oleszyce;Rzeszów;0;5
+1809072;180907;Stary Dzików;Rzeszów;0;5
+1809082;180908;Wielkie Oczy;Rzeszów;0;5
+1810011;181001;Łańcut;Rzeszów;0;1
+1810022;181002;Białobrzegi;Rzeszów;0;1
+1810032;181003;Czarna;Rzeszów;0;1
+1810042;181004;Łańcut;Rzeszów;0;1
+1810052;181005;Markowa;Rzeszów;0;1
+1810062;181006;Rakszawa;Rzeszów;0;1
+1810072;181007;Żołynia;Rzeszów;0;1
+1811011;181101;Mielec;Rzeszów;0;3
+1811022;181102;Borowa;Rzeszów;0;4
+1811032;181103;Czermin;Rzeszów;0;4
+1811042;181104;Gawłuszowice;Rzeszów;0;4
+1811052;181105;Mielec;Rzeszów;0;3
+1811062;181106;Padew Narodowa;Rzeszów;0;4
+1811073;181107;Przecław;Rzeszów;0;2
+1811083;181108;Radomyśl Wielki;Rzeszów;0;4
+1811092;181109;Tuszów Narodowy;Rzeszów;0;3
+1811102;181110;Wadowice Górne;Kraków;0;5
+1812012;181201;Harasiuki;Rzeszów;0;4
+1812022;181202;Jarocin;Lublin;0;4
+1812032;181203;Jeżowe;Rzeszów;0;2
+1812042;181204;Krzeszów;Rzeszów;0;3
+1812053;181205;Nisko;Rzeszów;0;3
+1812063;181206;Rudnik nad Sanem;Rzeszów;0;3
+1812073;181207;Ulanów;Rzeszów;0;4
+1813013;181301;Bircza;Rzeszów;0;3
+1813023;181302;Dubiecko;Rzeszów;0;2
+1813032;181303;Fredropol;Rzeszów;0;5
+1813042;181304;Krasiczyn;Rzeszów;0;4
+1813052;181305;Krzywcza;Rzeszów;0;3
+1813062;181306;Medyka;Rzeszów;0;5
+1813072;181307;Orły;Rzeszów;0;4
+1813082;181308;Przemyśl;Rzeszów;0;4
+1813092;181309;Stubno;Rzeszów;0;5
+1813102;181310;Żurawica;Rzeszów;0;4
+1814011;181401;Przeworsk;Rzeszów;0;2
+1814022;181402;Adamówka;Rzeszów;0;4
+1814032;181403;Gać;Rzeszów;0;1
+1814043;181404;Jawornik Polski;Rzeszów;0;1
+1814053;181405;Kańczuga;Rzeszów;0;1
+1814062;181406;Przeworsk;Rzeszów;0;2
+1814073;181407;Sieniawa;Rzeszów;0;3
+1814082;181408;Tryńcza;Rzeszów;0;2
+1814092;181409;Zarzecze;Rzeszów;0;2
+1815012;181501;Iwierzyce;Rzeszów;0;1
+1815022;181502;Ostrów;Rzeszów;0;2
+1815033;181503;Ropczyce;Rzeszów;0;2
+1815043;181504;Sędziszów Małopolski;Rzeszów;0;1
+1815052;181505;Wielopole Skrzyńskie;Rzeszów;0;2
+1816011;181601;Dynów;Rzeszów;0;1
+1816023;181602;Błażowa;Rzeszów;0;1
+1816033;181603;Boguchwała;Rzeszów;0;1
+1816042;181604;Chmielnik;Rzeszów;0;1
+1816052;181605;Dynów;Rzeszów;0;1
+1816063;181606;Głogów Małopolski;Rzeszów;0;1
+1816072;181607;Hyżne;Rzeszów;0;1
+1816082;181608;Kamień;Rzeszów;0;2
+1816092;181609;Krasne;Rzeszów;0;1
+1816102;181610;Lubenia;Rzeszów;0;1
+1816113;181611;Sokołów Małopolski;Rzeszów;0;1
+1816122;181612;Świlcza;Rzeszów;0;1
+1816132;181613;Trzebownisko;Rzeszów;0;1
+1816143;181614;Tyczyn;Rzeszów;0;1
+1817011;181701;Sanok;Rzeszów;0;4
+1817022;181702;Besko;Rzeszów;0;3
+1817032;181703;Bukowsko;Rzeszów;0;4
+1817042;181704;Komańcza;Rzeszów;0;5
+1817052;181705;Sanok;Rzeszów;0;3
+1817062;181706;Tyrawa Wołoska;Rzeszów;0;4
+1817073;181707;Zagórz;Rzeszów;0;5
+1817082;181708;Zarszyn;Rzeszów;0;3
+1818011;181801;Stalowa Wola;Rzeszów;0;4
+1818022;181802;Bojanów;Rzeszów;0;3
+1818032;181803;Pysznica;Lublin;0;4
+1818042;181804;Radomyśl nad Sanem;Lublin;0;4
+1818053;181805;Zaklików;Lublin;0;3
+1818062;181806;Zaleszany;Lublin;0;4
+1819012;181901;Czudec;Rzeszów;0;1
+1819022;181902;Frysztak;Rzeszów;0;2
+1819032;181903;Niebylec;Rzeszów;0;1
+1819043;181904;Strzyżów;Rzeszów;0;1
+1819052;181905;Wiśniowa;Rzeszów;0;1
+1820013;182001;Baranów Sandomierski;Rzeszów;0;4
+1820022;182002;Gorzyce;Lublin;0;4
+1820032;182003;Grębów;Rzeszów;0;4
+1820043;182004;Nowa Dęba;Rzeszów;0;4
+1821012;182101;Baligród;Rzeszów;0;5
+1821022;182102;Cisna;Rzeszów;0;5
+1821033;182103;Lesko;Rzeszów;0;5
+1821042;182104;Olszanica;Rzeszów;0;5
+1821052;182105;Solina;Rzeszów;0;5
+1861011;186101;Krosno;Rzeszów;0;2
+1862011;186201;Przemyśl;Rzeszów;0;4
+1863011;186301;Rzeszów;Rzeszów;1;0
+1864011;186401;Tarnobrzeg;Rzeszów;0;5
+2001011;200101;Augustów;Białystok;0;4
+2001022;200102;Augustów;Białystok;0;4
+2001032;200103;Bargłów Kościelny;Białystok;0;4
+2001043;200104;Lipsk;Białystok;0;4
+2001052;200105;Nowinka;Białystok;0;4
+2001062;200106;Płaska;Białystok;0;4
+2001072;200107;Sztabin;Białystok;0;4
+2002013;200201;Choroszcz;Białystok;0;1
+2002023;200202;Czarna Białostocka;Białystok;0;1
+2002032;200203;Dobrzyniewo Duże;Białystok;0;1
+2002042;200204;Gródek;Białystok;0;1
+2002052;200205;Juchnowiec Kościelny;Białystok;0;1
+2002063;200206;Łapy;Białystok;0;1
+2002073;200207;Michałowo;Białystok;0;2
+2002082;200208;Poświętne;Białystok;0;1
+2002093;200209;Supraśl;Białystok;0;1
+2002103;200210;Suraż;Białystok;0;1
+2002112;200211;Turośń Kościelna;Białystok;0;1
+2002123;200212;Tykocin;Białystok;0;1
+2002133;200213;Wasilków;Białystok;0;1
+2002143;200214;Zabłudów;Białystok;0;1
+2002152;200215;Zawady;Białystok;0;2
+2002162;200216;Grabówka;Białystok;0;1
+2003011;200301;Bielsk Podlaski;Białystok;0;2
+2003021;200302;Brańsk;Białystok;0;2
+2003032;200303;Bielsk Podlaski;Białystok;0;2
+2003042;200304;Boćki;Białystok;0;3
+2003052;200305;Brańsk;Białystok;0;2
+2003062;200306;Orla;Białystok;0;3
+2003072;200307;Rudka;Białystok;0;3
+2003082;200308;Wyszki;Białystok;0;1
+2004011;200401;Grajewo;Białystok;0;4
+2004022;200402;Grajewo;Białystok;0;3
+2004032;200403;Radziłów;Białystok;0;3
+2004043;200404;Rajgród;Białystok;0;4
+2004053;200405;Szczuczyn;Białystok;0;4
+2004062;200406;Wąsosz;Białystok;0;4
+2005011;200501;Hajnówka;Białystok;0;3
+2005022;200502;Białowieża;Białystok;0;3
+2005032;200503;Czeremcha;Białystok;0;4
+2005042;200504;Czyże;Białystok;0;2
+2005052;200505;Dubicze Cerkiewne;Białystok;0;3
+2005062;200506;Hajnówka;Białystok;0;3
+2005073;200507;Kleszczele;Białystok;0;3
+2005082;200508;Narew;Białystok;0;2
+2005092;200509;Narewka;Białystok;0;3
+2006011;200601;Kolno;Warszawa;0;5
+2006022;200602;Grabowo;Białystok;0;4
+2006032;200603;Kolno;Warszawa;0;5
+2006042;200604;Mały Płock;Warszawa;0;5
+2006053;200605;Stawiski;Białystok;0;4
+2006062;200606;Turośl;Warszawa;0;5
+2007013;200701;Jedwabne;Białystok;0;3
+2007022;200702;Łomża;Warszawa;0;5
+2007032;200703;Miastkowo;Warszawa;0;5
+2007043;200704;Nowogród;Warszawa;0;5
+2007052;200705;Piątnica;Białystok;0;4
+2007062;200706;Przytuły;Białystok;0;3
+2007072;200707;Śniadowo;Warszawa;0;4
+2007082;200708;Wizna;Białystok;0;3
+2007092;200709;Zbójna;Warszawa;0;5
+2008013;200801;Goniądz;Białystok;0;3
+2008022;200802;Jasionówka;Białystok;0;1
+2008032;200803;Jaświły;Białystok;0;2
+2008043;200804;Knyszyn;Białystok;0;1
+2008052;200805;Krypno;Białystok;0;1
+2008063;200806;Mońki;Białystok;0;2
+2008072;200807;Trzcianne;Białystok;0;2
+2009011;200901;Sejny;Białystok;0;5
+2009022;200902;Giby;Białystok;0;5
+2009032;200903;Krasnopol;Białystok;0;5
+2009042;200904;Puńsk;Białystok;0;5
+2009052;200905;Sejny;Białystok;0;5
+2010011;201001;Siemiatycze;Warszawa;0;5
+2010023;201002;Drohiczyn;Warszawa;0;4
+2010032;201003;Dziadkowice;Białystok;0;4
+2010042;201004;Grodzisk;Białystok;0;4
+2010052;201005;Mielnik;Warszawa;0;5
+2010062;201006;Milejczyce;Białystok;0;4
+2010072;201007;Nurzec-Stacja;Białystok;0;4
+2010082;201008;Perlejewo;Warszawa;0;4
+2010092;201009;Siemiatycze;Warszawa;0;5
+2011013;201101;Dąbrowa Białostocka;Białystok;0;3
+2011022;201102;Janów;Białystok;0;2
+2011032;201103;Korycin;Białystok;0;1
+2011043;201104;Krynki;Białystok;0;2
+2011052;201105;Kuźnica;Białystok;0;3
+2011062;201106;Nowy Dwór;Białystok;0;3
+2011072;201107;Sidra;Białystok;0;2
+2011083;201108;Sokółka;Białystok;0;2
+2011093;201109;Suchowola;Białystok;0;2
+2011102;201110;Szudziałowo;Białystok;0;2
+2012012;201201;Bakałarzewo;Białystok;0;5
+2012022;201202;Filipów;Białystok;0;5
+2012032;201203;Jeleniewo;Białystok;0;5
+2012042;201204;Przerośl;Białystok;0;5
+2012052;201205;Raczki;Białystok;0;5
+2012062;201206;Rutka-Tartak;Białystok;0;5
+2012072;201207;Suwałki;Białystok;0;5
+2012082;201208;Szypliszki;Białystok;0;5
+2012092;201209;Wiżajny;Białystok;0;5
+2013011;201301;Wysokie Mazowieckie;Białystok;0;2
+2013023;201302;Ciechanowiec;Warszawa;0;5
+2013033;201303;Czyżew;Warszawa;0;4
+2013042;201304;Klukowo;Białystok;0;3
+2013052;201305;Kobylin-Borzymy;Białystok;0;1
+2013062;201306;Kulesze Kościelne;Białystok;0;2
+2013072;201307;Nowe Piekuty;Białystok;0;2
+2013082;201308;Sokoły;Białystok;0;1
+2013093;201309;Szepietowo;Białystok;0;3
+2013102;201310;Wysokie Mazowieckie;Białystok;0;2
+2014011;201401;Zambrów;Warszawa;0;5
+2014022;201402;Kołaki Kościelne;Białystok;0;3
+2014032;201403;Rutki;Białystok;0;2
+2014042;201404;Szumowo;Warszawa;0;4
+2014052;201405;Zambrów;Warszawa;0;5
+2061011;206101;Białystok;Białystok;1;0
+2062011;206201;Łomża;Warszawa;0;5
+2063011;206301;Suwałki;Białystok;0;5
+2201012;220101;Borzytuchom;Gdańsk;0;5
+2201023;220102;Bytów;Gdańsk;0;4
+2201032;220103;Czarna Dąbrówka;Gdańsk;0;4
+2201042;220104;Kołczygłowy;Gdańsk;0;5
+2201052;220105;Lipnica;Gdańsk;0;5
+2201063;220106;Miastko;Gdańsk;0;5
+2201072;220107;Parchowo;Gdańsk;0;4
+2201082;220108;Studzienice;Gdańsk;0;4
+2201092;220109;Trzebielino;Gdańsk;0;5
+2201102;220110;Tuchomie;Gdańsk;0;5
+2202011;220201;Chojnice;Bydgoszcz;0;4
+2202023;220202;Brusy;Gdańsk;0;5
+2202032;220203;Chojnice;Bydgoszcz;0;5
+2202043;220204;Czersk;Bydgoszcz;0;5
+2202052;220205;Konarzyny;Bydgoszcz;0;5
+2203011;220301;Człuchów;Bydgoszcz;0;5
+2203023;220302;Czarne;Bydgoszcz;0;5
+2203032;220303;Człuchów;Bydgoszcz;0;5
+2203043;220304;Debrzno;Bydgoszcz;0;5
+2203052;220305;Koczała;Gdańsk;0;5
+2203062;220306;Przechlewo;Bydgoszcz;0;5
+2203072;220307;Rzeczenica;Bydgoszcz;0;5
+2204011;220401;Pruszcz Gdański;Gdańsk;0;1
+2204022;220402;Cedry Wielkie;Gdańsk;0;1
+2204032;220403;Kolbudy;Gdańsk;0;1
+2204042;220404;Pruszcz Gdański;Gdańsk;0;1
+2204052;220405;Przywidz;Gdańsk;0;1
+2204062;220406;Pszczółki;Gdańsk;0;1
+2204072;220407;Suchy Dąb;Gdańsk;0;1
+2204082;220408;Trąbki Wielkie;Gdańsk;0;1
+2205012;220501;Chmielno;Gdańsk;0;2
+2205023;220502;Kartuzy;Gdańsk;0;2
+2205032;220503;Przodkowo;Gdańsk;0;1
+2205042;220504;Sierakowice;Gdańsk;0;3
+2205052;220505;Somonino;Gdańsk;0;2
+2205062;220506;Stężyca;Gdańsk;0;2
+2205072;220507;Sulęczyno;Gdańsk;0;3
+2205083;220508;Żukowo;Gdańsk;0;1
+2206011;220601;Kościerzyna;Gdańsk;0;3
+2206022;220602;Dziemiany;Gdańsk;0;4
+2206032;220603;Karsin;Gdańsk;0;4
+2206042;220604;Kościerzyna;Gdańsk;0;3
+2206052;220605;Liniewo;Gdańsk;0;2
+2206062;220606;Lipusz;Gdańsk;0;4
+2206072;220607;Nowa Karczma;Gdańsk;0;2
+2206082;220608;Stara Kiszewa;Gdańsk;0;3
+2207011;220701;Kwidzyn;Gdańsk;0;4
+2207022;220702;Gardeja;Gdańsk;0;4
+2207032;220703;Kwidzyn;Gdańsk;0;4
+2207043;220704;Prabuty;Gdańsk;0;4
+2207052;220705;Ryjewo;Gdańsk;0;3
+2207062;220706;Sadlinki;Gdańsk;0;4
+2208011;220801;Lębork;Gdańsk;0;3
+2208021;220802;Łeba;Gdańsk;0;4
+2208032;220803;Cewice;Gdańsk;0;3
+2208042;220804;Nowa Wieś Lęborska;Gdańsk;0;4
+2208052;220805;Wicko;Gdańsk;0;4
+2209011;220901;Malbork;Gdańsk;0;2
+2209032;220903;Lichnowy;Gdańsk;0;1
+2209042;220904;Malbork;Gdańsk;0;2
+2209062;220906;Miłoradz;Gdańsk;0;2
+2209073;220907;Nowy Staw;Gdańsk;0;1
+2209082;220908;Stare Pole;Gdańsk;0;2
+2210011;221001;Krynica Morska;Gdańsk;0;2
+2210023;221002;Nowy Dwór Gdański;Gdańsk;0;1
+2210032;221003;Ostaszewo;Gdańsk;0;1
+2210042;221004;Stegna;Gdańsk;0;1
+2210052;221005;Sztutowo;Gdańsk;0;1
+2211011;221101;Hel;Gdańsk;0;1
+2211023;221102;Jastarnia;Gdańsk;0;1
+2211031;221103;Puck;Gdańsk;0;2
+2211043;221104;Władysławowo;Gdańsk;0;2
+2211052;221105;Kosakowo;Gdańsk;0;1
+2211062;221106;Krokowa;Gdańsk;0;3
+2211072;221107;Puck;Gdańsk;0;2
+2212011;221201;Ustka;Gdańsk;0;5
+2212022;221202;Damnica;Gdańsk;0;5
+2212032;221203;Dębnica Kaszubska;Gdańsk;0;5
+2212042;221204;Główczyce;Gdańsk;0;5
+2212053;221205;Kępice;Gdańsk;0;5
+2212063;221206;Kobylnica;Gdańsk;0;5
+2212072;221207;Potęgowo;Gdańsk;0;4
+2212082;221208;Redzikowo;Gdańsk;0;5
+2212092;221209;Smołdzino;Gdańsk;0;5
+2212102;221210;Ustka;Gdańsk;0;5
+2213013;221301;Czarna Woda;Gdańsk;0;4
+2213021;221302;Skórcz;Gdańsk;0;4
+2213031;221303;Starogard Gdański;Gdańsk;0;2
+2213042;221304;Bobowo;Gdańsk;0;3
+2213052;221305;Kaliska;Gdańsk;0;3
+2213062;221306;Lubichowo;Gdańsk;0;3
+2213072;221307;Osieczna;Gdańsk;0;4
+2213082;221308;Osiek;Gdańsk;0;4
+2213093;221309;Skarszewy;Gdańsk;0;2
+2213102;221310;Skórcz;Gdańsk;0;3
+2213112;221311;Smętowo Graniczne;Gdańsk;0;4
+2213122;221312;Starogard Gdański;Gdańsk;0;2
+2213132;221313;Zblewo;Gdańsk;0;3
+2214011;221401;Tczew;Gdańsk;0;1
+2214023;221402;Gniew;Gdańsk;0;3
+2214032;221403;Morzeszczyn;Gdańsk;0;3
+2214043;221404;Pelplin;Gdańsk;0;2
+2214052;221405;Subkowy;Gdańsk;0;2
+2214062;221406;Tczew;Gdańsk;0;1
+2215011;221501;Reda;Gdańsk;0;1
+2215021;221502;Rumia;Gdańsk;0;1
+2215031;221503;Wejherowo;Gdańsk;0;1
+2215042;221504;Choczewo;Gdańsk;0;3
+2215052;221505;Gniewino;Gdańsk;0;3
+2215062;221506;Linia;Gdańsk;0;2
+2215072;221507;Luzino;Gdańsk;0;2
+2215082;221508;Łęczyce;Gdańsk;0;3
+2215092;221509;Szemud;Gdańsk;0;1
+2215102;221510;Wejherowo;Gdańsk;0;2
+2216013;221601;Dzierzgoń;Gdańsk;0;3
+2216022;221602;Mikołajki Pomorskie;Gdańsk;0;3
+2216032;221603;Stary Dzierzgoń;Gdańsk;0;4
+2216042;221604;Stary Targ;Gdańsk;0;3
+2216053;221605;Sztum;Gdańsk;0;3
+2261011;226101;Gdańsk;Gdańsk;1;0
+2262011;226201;Gdynia;Gdańsk;0;1
+2263011;226301;Słupsk;Gdańsk;0;5
+2264011;226401;Sopot;Gdańsk;0;1
+2401011;240101;Będzin;Katowice;0;1
+2401021;240102;Czeladź;Katowice;0;1
+2401031;240103;Wojkowice;Katowice;0;1
+2401042;240104;Bobrowniki;Katowice;0;2
+2401052;240105;Mierzęcice;Katowice;0;2
+2401062;240106;Psary;Katowice;0;1
+2401073;240107;Siewierz;Katowice;0;2
+2401081;240108;Sławków;Katowice;0;2
+2402011;240201;Szczyrk;Kraków;0;5
+2402022;240202;Bestwina;Katowice;0;3
+2402032;240203;Buczkowice;Kraków;0;4
+2402043;240204;Czechowice-Dziedzice;Katowice;0;3
+2402052;240205;Jasienica;Katowice;0;3
+2402062;240206;Jaworze;Katowice;0;4
+2402072;240207;Kozy;Katowice;0;3
+2402082;240208;Porąbka;Kraków;0;3
+2402093;240209;Wilamowice;Katowice;0;3
+2402102;240210;Wilkowice;Kraków;0;4
+2403011;240301;Cieszyn;Katowice;0;5
+2403021;240302;Ustroń;Katowice;0;5
+2403031;240303;Wisła;Kraków;0;5
+2403042;240304;Brenna;Katowice;0;5
+2403052;240305;Chybie;Katowice;0;3
+2403062;240306;Dębowiec;Katowice;0;4
+2403072;240307;Goleszów;Katowice;0;5
+2403082;240308;Hażlach;Katowice;0;4
+2403092;240309;Istebna;Kraków;0;5
+2403103;240310;Skoczów;Katowice;0;4
+2403113;240311;Strumień;Katowice;0;3
+2403122;240312;Zebrzydowice;Katowice;0;4
+2404013;240401;Blachownia;Katowice;0;5
+2404022;240402;Dąbrowa Zielona;Kraków;0;5
+2404032;240403;Janów;Kraków;0;5
+2404042;240404;Kamienica Polska;Katowice;0;4
+2404052;240405;Kłomnice;Kraków;0;5
+2404063;240406;Koniecpol;Kraków;0;5
+2404072;240407;Konopiska;Katowice;0;5
+2404082;240408;Kruszyna;Łódź;0;5
+2404092;240409;Lelów;Kraków;0;4
+2404102;240410;Mstów;Kraków;0;5
+2404112;240411;Mykanów;Łódź;0;5
+2404123;240412;Olsztyn;Katowice;0;5
+2404132;240413;Poczesna;Katowice;0;5
+2404143;240414;Przyrów;Kraków;0;5
+2404152;240415;Rędziny;Kraków;0;5
+2404162;240416;Starcza;Katowice;0;4
+2405011;240501;Knurów;Katowice;0;2
+2405021;240502;Pyskowice;Katowice;0;3
+2405032;240503;Gierałtowice;Katowice;0;1
+2405042;240504;Pilchowice;Katowice;0;2
+2405052;240505;Rudziniec;Katowice;0;3
+2405063;240506;Sośnicowice;Katowice;0;3
+2405073;240507;Toszek;Katowice;0;4
+2405082;240508;Wielowieś;Katowice;0;4
+2406013;240601;Kłobuck;Katowice;0;5
+2406023;240602;Krzepice;Łódź;0;5
+2406032;240603;Lipie;Łódź;0;5
+2406042;240604;Miedźno;Łódź;0;5
+2406052;240605;Opatów;Łódź;0;5
+2406062;240606;Panki;Katowice;0;5
+2406072;240607;Popów;Łódź;0;5
+2406082;240608;Przystajń;Katowice;0;5
+2406092;240609;Wręczyca Wielka;Katowice;0;5
+2407011;240701;Lubliniec;Katowice;0;4
+2407022;240702;Boronów;Katowice;0;4
+2407032;240703;Ciasna;Opole;0;5
+2407042;240704;Herby;Katowice;0;5
+2407052;240705;Kochanowice;Katowice;0;5
+2407062;240706;Koszęcin;Katowice;0;4
+2407072;240707;Pawonków;Katowice;0;5
+2407083;240708;Woźniki;Katowice;0;3
+2408011;240801;Łaziska Górne;Katowice;0;1
+2408021;240802;Mikołów;Katowice;0;1
+2408031;240803;Orzesze;Katowice;0;1
+2408042;240804;Ornontowice;Katowice;0;1
+2408052;240805;Wyry;Katowice;0;1
+2409011;240901;Myszków;Katowice;0;3
+2409023;240902;Koziegłowy;Katowice;0;3
+2409032;240903;Niegowa;Kraków;0;4
+2409042;240904;Poraj;Katowice;0;4
+2409053;240905;Żarki;Katowice;0;4
+2410012;241001;Goczałkowice-Zdrój;Katowice;0;2
+2410022;241002;Kobiór;Katowice;0;1
+2410032;241003;Miedźna;Katowice;0;2
+2410042;241004;Pawłowice;Katowice;0;3
+2410053;241005;Pszczyna;Katowice;0;2
+2410062;241006;Suszec;Katowice;0;2
+2411011;241101;Racibórz;Katowice;0;5
+2411022;241102;Kornowac;Katowice;0;4
+2411033;241103;Krzanowice;Katowice;0;5
+2411042;241104;Krzyżanowice;Katowice;0;5
+2411053;241105;Kuźnia Raciborska;Katowice;0;4
+2411062;241106;Nędza;Katowice;0;4
+2411072;241107;Pietrowice Wielkie;Katowice;0;5
+2411082;241108;Rudnik;Katowice;0;5
+2412013;241201;Czerwionka-Leszczyny;Katowice;0;2
+2412022;241202;Gaszowice;Katowice;0;4
+2412032;241203;Jejkowice;Katowice;0;3
+2412042;241204;Lyski;Katowice;0;4
+2412052;241205;Świerklany;Katowice;0;3
+2413011;241301;Kalety;Katowice;0;3
+2413021;241302;Miasteczko Śląskie;Katowice;0;2
+2413031;241303;Radzionków;Katowice;0;2
+2413041;241304;Tarnowskie Góry;Katowice;0;2
+2413052;241305;Krupski Młyn;Katowice;0;4
+2413062;241306;Ożarowice;Katowice;0;2
+2413072;241307;Świerklaniec;Katowice;0;2
+2413082;241308;Tworóg;Katowice;0;3
+2413092;241309;Zbrosławice;Katowice;0;2
+2414011;241401;Bieruń;Katowice;0;1
+2414021;241402;Imielin;Katowice;0;1
+2414031;241403;Lędziny;Katowice;0;1
+2414042;241404;Bojszowy;Katowice;0;1
+2414052;241405;Chełm Śląski;Katowice;0;1
+2415011;241501;Pszów;Katowice;0;4
+2415021;241502;Radlin;Katowice;0;3
+2415031;241503;Rydułtowy;Katowice;0;4
+2415041;241504;Wodzisław Śląski;Katowice;0;4
+2415052;241505;Godów;Katowice;0;4
+2415062;241506;Gorzyce;Katowice;0;4
+2415072;241507;Lubomia;Katowice;0;5
+2415082;241508;Marklowice;Katowice;0;3
+2415092;241509;Mszana;Katowice;0;3
+2416011;241601;Poręba;Katowice;0;3
+2416021;241602;Zawiercie;Kraków;0;3
+2416032;241603;Irządze;Kraków;0;4
+2416042;241604;Kroczyce;Kraków;0;3
+2416053;241605;Łazy;Katowice;0;3
+2416063;241606;Ogrodzieniec;Kraków;0;3
+2416073;241607;Pilica;Kraków;0;3
+2416083;241608;Szczekociny;Kraków;0;4
+2416093;241609;Włodowice;Kraków;0;4
+2416102;241610;Żarnowiec;Kraków;0;3
+2417011;241701;Żywiec;Kraków;0;4
+2417022;241702;Czernichów;Kraków;0;4
+2417032;241703;Gilowice;Kraków;0;3
+2417042;241704;Jeleśnia;Kraków;0;4
+2417052;241705;Koszarawa;Kraków;0;3
+2417062;241706;Lipowa;Kraków;0;4
+2417072;241707;Łękawica;Kraków;0;3
+2417082;241708;Łodygowice;Kraków;0;4
+2417092;241709;Milówka;Kraków;0;5
+2417102;241710;Radziechowy-Wieprz;Kraków;0;4
+2417112;241711;Rajcza;Kraków;0;5
+2417122;241712;Ślemień;Kraków;0;3
+2417132;241713;Świnna;Kraków;0;4
+2417142;241714;Ujsoły;Kraków;0;5
+2417152;241715;Węgierska Górka;Kraków;0;4
+2461011;246101;Bielsko-Biała;Katowice;0;4
+2462011;246201;Bytom;Katowice;0;1
+2463011;246301;Chorzów;Katowice;0;1
+2464011;246401;Częstochowa;Katowice;0;5
+2465011;246501;Dąbrowa Górnicza;Katowice;0;2
+2466011;246601;Gliwice;Katowice;0;2
+2467011;246701;Jastrzębie-Zdrój;Katowice;0;3
+2468011;246801;Jaworzno;Katowice;0;1
+2469011;246901;Katowice;Katowice;1;0
+2470011;247001;Mysłowice;Katowice;0;1
+2471011;247101;Piekary Śląskie;Katowice;0;1
+2472011;247201;Ruda Śląska;Katowice;0;1
+2473011;247301;Rybnik;Katowice;0;3
+2474011;247401;Siemianowice Śląskie;Katowice;0;1
+2475011;247501;Sosnowiec;Katowice;0;1
+2476011;247601;Świętochłowice;Katowice;0;1
+2477011;247701;Tychy;Katowice;0;1
+2478011;247801;Zabrze;Katowice;0;1
+2479011;247901;Żory;Katowice;0;2
+2601013;260101;Busko-Zdrój;Kraków;0;4
+2601022;260102;Gnojno;Kielce;0;3
+2601033;260103;Nowy Korczyn;Kraków;0;4
+2601043;260104;Pacanów;Kraków;0;5
+2601052;260105;Solec-Zdrój;Kraków;0;4
+2601063;260106;Stopnica;Kraków;0;5
+2601072;260107;Tuczępy;Kielce;0;4
+2601083;260108;Wiślica;Kraków;0;3
+2602012;260201;Imielno;Kielce;0;3
+2602023;260202;Jędrzejów;Kielce;0;2
+2602033;260203;Małogoszcz;Kielce;0;2
+2602042;260204;Nagłowice;Kielce;0;4
+2602052;260205;Oksa;Kielce;0;3
+2602063;260206;Sędziszów;Kraków;0;3
+2602072;260207;Słupia;Kraków;0;3
+2602083;260208;Sobków;Kielce;0;1
+2602093;260209;Wodzisław;Kraków;0;3
+2603012;260301;Bejsce;Kraków;0;2
+2603022;260302;Czarnocin;Kraków;0;2
+2603033;260303;Kazimierza Wielka;Kraków;0;2
+2603043;260304;Opatowiec;Kraków;0;3
+2603053;260305;Skalbmierz;Kraków;0;2
+2604012;260401;Bieliny;Kielce;0;2
+2604023;260402;Bodzentyn;Kielce;0;2
+2604033;260403;Chęciny;Kielce;0;1
+2604043;260404;Chmielnik;Kielce;0;2
+2604053;260405;Daleszyce;Kielce;0;1
+2604062;260406;Górno;Kielce;0;1
+2604073;260407;Łagów;Kielce;0;3
+2604083;260408;Łopuszno;Kielce;0;2
+2604092;260409;Masłów;Kielce;0;1
+2604102;260410;Miedziana Góra;Kielce;0;1
+2604112;260411;Mniów;Kielce;0;1
+2604123;260412;Morawica;Kielce;0;1
+2604133;260413;Nowa Słupia;Kielce;0;2
+2604143;260414;Piekoszów;Kielce;0;1
+2604153;260415;Pierzchnica;Kielce;0;2
+2604162;260416;Raków;Kielce;0;3
+2604172;260417;Nowiny;Kielce;0;1
+2604182;260418;Strawczyn;Kielce;0;1
+2604192;260419;Zagnańsk;Kielce;0;1
+2605012;260501;Fałków;Kielce;0;4
+2605023;260502;Gowarczów;Kielce;0;4
+2605033;260503;Końskie;Kielce;0;3
+2605043;260504;Radoszyce;Kielce;0;2
+2605052;260505;Ruda Maleniecka;Kielce;0;4
+2605062;260506;Słupia Konecka;Kielce;0;3
+2605072;260507;Smyków;Kielce;0;2
+2605083;260508;Stąporków;Kielce;0;2
+2606012;260601;Baćkowice;Kielce;0;4
+2606023;260602;Iwaniska;Kielce;0;5
+2606032;260603;Lipnik;Kielce;0;5
+2606043;260604;Opatów;Kielce;0;5
+2606053;260605;Ożarów;Lublin;0;4
+2606062;260606;Sadowie;Kielce;0;5
+2606072;260607;Tarłów;Lublin;0;3
+2606082;260608;Wojciechowice;Lublin;0;4
+2607011;260701;Ostrowiec Świętokrzyski;Kielce;0;5
+2607022;260702;Bałtów;Lublin;0;4
+2607032;260703;Bodzechów;Kielce;0;5
+2607043;260704;Ćmielów;Kielce;0;5
+2607053;260705;Kunów;Kielce;0;5
+2607062;260706;Waśniów;Kielce;0;4
+2608013;260801;Działoszyce;Kraków;0;2
+2608022;260802;Kije;Kielce;0;2
+2608032;260803;Michałów;Kraków;0;3
+2608043;260804;Pińczów;Kraków;0;3
+2608052;260805;Złota;Kraków;0;3
+2609011;260901;Sandomierz;Lublin;0;5
+2609022;260902;Dwikozy;Lublin;0;4
+2609033;260903;Klimontów;Kielce;0;5
+2609043;260904;Koprzywnica;Rzeszów;0;5
+2609052;260905;Łoniów;Rzeszów;0;5
+2609062;260906;Obrazów;Lublin;0;5
+2609072;260907;Samborzec;Rzeszów;0;5
+2609082;260908;Wilczyce;Lublin;0;5
+2609093;260909;Zawichost;Lublin;0;4
+2610011;261001;Skarżysko-Kamienna;Kielce;0;3
+2610022;261002;Bliżyn;Kielce;0;2
+2610032;261003;Łączna;Kielce;0;1
+2610042;261004;Skarżysko Kościelne;Kielce;0;3
+2610053;261005;Suchedniów;Kielce;0;2
+2611011;261101;Starachowice;Kielce;0;3
+2611022;261102;Brody;Kielce;0;4
+2611032;261103;Mirzec;Kielce;0;4
+2611042;261104;Pawłów;Kielce;0;3
+2611053;261105;Wąchock;Kielce;0;3
+2612013;261201;Bogoria;Kielce;0;5
+2612022;261202;Łubnice;Kraków;0;5
+2612033;261203;Oleśnica;Kraków;0;5
+2612043;261204;Osiek;Rzeszów;0;5
+2612053;261205;Połaniec;Kraków;0;5
+2612062;261206;Rytwiany;Kielce;0;5
+2612073;261207;Staszów;Kielce;0;5
+2612083;261208;Szydłów;Kielce;0;3
+2613012;261301;Kluczewsko;Kielce;0;5
+2613022;261302;Krasocin;Kielce;0;3
+2613032;261303;Moskorzew;Kraków;0;4
+2613042;261304;Radków;Kraków;0;4
+2613052;261305;Secemin;Kraków;0;5
+2613063;261306;Włoszczowa;Kielce;0;4
+2661011;266101;Kielce;Kielce;1;0
+2801011;280101;Bartoszyce;Olsztyn;0;4
+2801021;280102;Górowo Iławeckie;Olsztyn;0;4
+2801032;280103;Bartoszyce;Olsztyn;0;4
+2801043;280104;Bisztynek;Olsztyn;0;3
+2801052;280105;Górowo Iławeckie;Olsztyn;0;4
+2801063;280106;Sępopol;Olsztyn;0;5
+2802011;280201;Braniewo;Gdańsk;0;3
+2802022;280202;Braniewo;Gdańsk;0;4
+2802033;280203;Frombork;Gdańsk;0;3
+2802042;280204;Lelkowo;Gdańsk;0;5
+2802053;280205;Pieniężno;Olsztyn;0;4
+2802062;280206;Płoskinia;Gdańsk;0;4
+2802072;280207;Wilczęta;Gdańsk;0;4
+2803011;280301;Działdowo;Warszawa;0;5
+2803022;280302;Działdowo;Warszawa;0;5
+2803032;280303;Iłowo-Osada;Warszawa;0;5
+2803043;280304;Lidzbark;Warszawa;0;5
+2803052;280305;Płośnica;Warszawa;0;5
+2803062;280306;Rybno;Olsztyn;0;4
+2804012;280401;Elbląg;Gdańsk;0;2
+2804022;280402;Godkowo;Olsztyn;0;3
+2804032;280403;Gronowo Elbląskie;Gdańsk;0;2
+2804042;280404;Markusy;Gdańsk;0;3
+2804052;280405;Milejewo;Gdańsk;0;2
+2804063;280406;Młynary;Gdańsk;0;3
+2804073;280407;Pasłęk;Gdańsk;0;4
+2804082;280408;Rychliki;Gdańsk;0;3
+2804093;280409;Tolkmicko;Gdańsk;0;2
+2805011;280501;Ełk;Białystok;0;5
+2805022;280502;Ełk;Białystok;0;5
+2805032;280503;Kalinowo;Białystok;0;4
+2805042;280504;Prostki;Białystok;0;4
+2805052;280505;Stare Juchy;Białystok;0;5
+2806011;280601;Giżycko;Olsztyn;0;5
+2806042;280604;Giżycko;Olsztyn;0;5
+2806052;280605;Kruklanki;Warszawa;0;5
+2806062;280606;Miłki;Warszawa;0;5
+2806083;280608;Ryn;Olsztyn;0;5
+2806102;280610;Wydminy;Warszawa;0;5
+2807011;280701;Iława;Olsztyn;0;5
+2807021;280702;Lubawa;Olsztyn;0;4
+2807032;280703;Iława;Olsztyn;0;4
+2807043;280704;Kisielice;Gdańsk;0;5
+2807052;280705;Lubawa;Olsztyn;0;3
+2807063;280706;Susz;Gdańsk;0;4
+2807073;280707;Zalewo;Olsztyn;0;4
+2808011;280801;Kętrzyn;Olsztyn;0;5
+2808022;280802;Barciany;Olsztyn;0;5
+2808032;280803;Kętrzyn;Olsztyn;0;5
+2808043;280804;Korsze;Olsztyn;0;4
+2808053;280805;Reszel;Olsztyn;0;3
+2808062;280806;Srokowo;Olsztyn;0;5
+2809011;280901;Lidzbark Warmiński;Olsztyn;0;2
+2809022;280902;Kiwity;Olsztyn;0;2
+2809032;280903;Lidzbark Warmiński;Olsztyn;0;2
+2809042;280904;Lubomino;Olsztyn;0;2
+2809053;280905;Orneta;Olsztyn;0;3
+2810011;281001;Mrągowo;Olsztyn;0;4
+2810023;281002;Mikołajki;Olsztyn;0;5
+2810032;281003;Mrągowo;Olsztyn;0;4
+2810042;281004;Piecki;Olsztyn;0;4
+2810052;281005;Sorkwity;Olsztyn;0;3
+2811012;281101;Janowiec Kościelny;Warszawa;0;5
+2811022;281102;Janowo;Olsztyn;0;3
+2811032;281103;Kozłowo;Olsztyn;0;3
+2811043;281104;Nidzica;Olsztyn;0;2
+2812011;281201;Nowe Miasto Lubawskie;Olsztyn;0;5
+2812022;281202;Biskupiec;Toruń;0;5
+2812032;281203;Grodziczno;Olsztyn;0;5
+2812042;281204;Kurzętnik;Toruń;0;5
+2812052;281205;Bratian;Olsztyn;0;5
+2813032;281303;Kowale Oleckie;Warszawa;0;5
+2813043;281304;Olecko;Białystok;0;5
+2813052;281305;Świętajno;Białystok;0;5
+2813062;281306;Wieliczki;Białystok;0;5
+2814013;281401;Barczewo;Olsztyn;0;1
+2814023;281402;Biskupiec;Olsztyn;0;1
+2814033;281403;Dobre Miasto;Olsztyn;0;1
+2814042;281404;Dywity;Olsztyn;0;1
+2814052;281405;Gietrzwałd;Olsztyn;0;1
+2814063;281406;Jeziorany;Olsztyn;0;1
+2814072;281407;Jonkowo;Olsztyn;0;1
+2814082;281408;Kolno;Olsztyn;0;2
+2814093;281409;Olsztynek;Olsztyn;0;1
+2814102;281410;Purda;Olsztyn;0;1
+2814112;281411;Stawiguda;Olsztyn;0;1
+2814122;281412;Świątki;Olsztyn;0;1
+2815011;281501;Ostróda;Olsztyn;0;2
+2815022;281502;Dąbrówno;Olsztyn;0;3
+2815032;281503;Grunwald;Olsztyn;0;2
+2815042;281504;Łukta;Olsztyn;0;1
+2815052;281505;Małdyty;Olsztyn;0;3
+2815063;281506;Miłakowo;Olsztyn;0;2
+2815073;281507;Miłomłyn;Olsztyn;0;3
+2815083;281508;Morąg;Olsztyn;0;2
+2815092;281509;Ostróda;Olsztyn;0;2
+2816013;281601;Biała Piska;Białystok;0;4
+2816023;281602;Orzysz;Warszawa;0;5
+2816033;281603;Pisz;Warszawa;0;5
+2816043;281604;Ruciane-Nida;Warszawa;0;5
+2817011;281701;Szczytno;Olsztyn;0;2
+2817022;281702;Dźwierzuty;Olsztyn;0;2
+2817032;281703;Jedwabno;Olsztyn;0;2
+2817043;281704;Pasym;Olsztyn;0;1
+2817052;281705;Rozogi;Warszawa;0;5
+2817062;281706;Szczytno;Olsztyn;0;3
+2817072;281707;Świętajno;Olsztyn;0;4
+2817083;281708;Wielbark;Olsztyn;0;3
+2818012;281801;Banie Mazurskie;Warszawa;0;5
+2818022;281802;Dubeninki;Białystok;0;5
+2818033;281803;Gołdap;Warszawa;0;5
+2819012;281901;Budry;Warszawa;0;5
+2819022;281902;Pozezdrze;Warszawa;0;5
+2819033;281903;Węgorzewo;Olsztyn;0;5
+2861011;286101;Elbląg;Gdańsk;0;2
+2862011;286201;Olsztyn;Olsztyn;1;0
+3001011;300101;Chodzież;Poznań;0;4
+3001023;300102;Budzyń;Poznań;0;3
+3001032;300103;Chodzież;Poznań;0;4
+3001043;300104;Margonin;Poznań;0;4
+3001053;300105;Szamocin;Bydgoszcz;0;4
+3002011;300201;Czarnków;Poznań;0;3
+3002022;300202;Czarnków;Poznań;0;4
+3002032;300203;Drawsko;Poznań;0;5
+3002043;300204;Krzyż Wielkopolski;Poznań;0;5
+3002052;300205;Lubasz;Poznań;0;3
+3002062;300206;Połajewo;Poznań;0;2
+3002073;300207;Trzcianka;Poznań;0;5
+3002083;300208;Wieleń;Poznań;0;4
+3003011;300301;Gniezno;Poznań;0;2
+3003023;300302;Czerniejewo;Poznań;0;2
+3003032;300303;Gniezno;Poznań;0;3
+3003042;300304;Kiszkowo;Poznań;0;1
+3003053;300305;Kłecko;Poznań;0;2
+3003062;300306;Łubowo;Poznań;0;2
+3003072;300307;Mieleszyn;Poznań;0;3
+3003082;300308;Niechanowo;Poznań;0;3
+3003093;300309;Trzemeszno;Poznań;0;4
+3003103;300310;Witkowo;Poznań;0;3
+3004013;300401;Borek Wielkopolski;Poznań;0;3
+3004023;300402;Gostyń;Poznań;0;3
+3004033;300403;Krobia;Wrocław;0;3
+3004042;300404;Pępowo;Wrocław;0;3
+3004052;300405;Piaski;Poznań;0;3
+3004063;300406;Pogorzela;Poznań;0;4
+3004073;300407;Poniec;Wrocław;0;3
+3005012;300501;Granowo;Poznań;0;1
+3005023;300502;Grodzisk Wielkopolski;Poznań;0;2
+3005032;300503;Kamieniec;Poznań;0;2
+3005043;300504;Rakoniewice;Poznań;0;3
+3005053;300505;Wielichowo;Poznań;0;3
+3006013;300601;Jaraczewo;Poznań;0;3
+3006023;300602;Jarocin;Poznań;0;4
+3006032;300603;Kotlin;Poznań;0;4
+3006043;300604;Żerków;Poznań;0;3
+3007012;300701;Blizanów;Poznań;0;5
+3007022;300702;Brzeziny;Łódź;0;5
+3007032;300703;Ceków-Kolonia;Łódź;0;4
+3007042;300704;Godziesze Wielkie;Łódź;0;5
+3007053;300705;Koźminek;Łódź;0;4
+3007062;300706;Lisków;Łódź;0;4
+3007072;300707;Mycielin;Łódź;0;5
+3007083;300708;Opatówek;Łódź;0;5
+3007093;300709;Stawiszyn;Łódź;0;5
+3007102;300710;Szczytniki;Łódź;0;4
+3007112;300711;Żelazków;Łódź;0;5
+3008012;300801;Baranów;Wrocław;0;3
+3008022;300802;Bralin;Wrocław;0;3
+3008033;300803;Kępno;Wrocław;0;3
+3008042;300804;Łęka Opatowska;Wrocław;0;4
+3008052;300805;Perzów;Wrocław;0;2
+3008063;300806;Rychtal;Wrocław;0;3
+3008072;300807;Trzcinica;Wrocław;0;3
+3009011;300901;Koło;Łódź;0;4
+3009022;300902;Babiak;Łódź;0;5
+3009032;300903;Chodów;Łódź;0;3
+3009043;300904;Dąbie;Łódź;0;3
+3009052;300905;Grzegorzew;Łódź;0;4
+3009063;300906;Kłodawa;Łódź;0;4
+3009072;300907;Koło;Łódź;0;4
+3009082;300908;Kościelec;Łódź;0;4
+3009092;300909;Olszówka;Łódź;0;3
+3009102;300910;Osiek Mały;Łódź;0;5
+3009113;300911;Przedecz;Łódź;0;4
+3010013;301001;Golina;Poznań;0;5
+3010022;301002;Grodziec;Poznań;0;5
+3010032;301003;Kazimierz Biskupi;Poznań;0;5
+3010043;301004;Kleczew;Poznań;0;5
+3010052;301005;Kramsk;Łódź;0;5
+3010062;301006;Krzymów;Łódź;0;5
+3010073;301007;Rychwał;Łódź;0;5
+3010082;301008;Rzgów;Poznań;0;5
+3010092;301009;Skulsk;Bydgoszcz;0;5
+3010103;301010;Sompolno;Łódź;0;5
+3010112;301011;Stare Miasto;Łódź;0;5
+3010123;301012;Ślesin;Poznań;0;5
+3010132;301013;Wierzbinek;Toruń;0;5
+3010142;301014;Wilczyn;Poznań;0;5
+3011011;301101;Kościan;Poznań;0;2
+3011023;301102;Czempiń;Poznań;0;1
+3011032;301103;Kościan;Poznań;0;2
+3011043;301104;Krzywiń;Poznań;0;2
+3011053;301105;Śmigiel;Poznań;0;3
+3012011;301201;Sulmierzyce;Wrocław;0;3
+3012023;301202;Kobylin;Wrocław;0;3
+3012033;301203;Koźmin Wielkopolski;Poznań;0;4
+3012043;301204;Krotoszyn;Wrocław;0;4
+3012052;301205;Rozdrażew;Wrocław;0;4
+3012063;301206;Zduny;Wrocław;0;3
+3013012;301301;Krzemieniewo;Poznań;0;3
+3013022;301302;Lipno;Poznań;0;3
+3013033;301303;Osieczna;Poznań;0;3
+3013043;301304;Rydzyna;Wrocław;0;4
+3013052;301305;Święciechowa;Poznań;0;4
+3013062;301306;Wijewo;Zielona Góra;0;4
+3013072;301307;Włoszakowice;Poznań;0;4
+3014012;301401;Chrzypsko Wielkie;Poznań;0;3
+3014022;301402;Kwilcz;Poznań;0;3
+3014033;301403;Międzychód;Poznań;0;4
+3014043;301404;Sieraków;Poznań;0;4
+3015012;301501;Kuślin;Poznań;0;2
+3015023;301502;Lwówek;Poznań;0;3
+3015032;301503;Miedzichowo;Poznań;0;4
+3015043;301504;Nowy Tomyśl;Poznań;0;3
+3015053;301505;Opalenica;Poznań;0;2
+3015063;301506;Zbąszyń;Poznań;0;4
+3016013;301601;Oborniki;Poznań;0;1
+3016023;301602;Rogoźno;Poznań;0;2
+3016032;301603;Ryczywół;Poznań;0;2
+3017011;301701;Ostrów Wielkopolski;Wrocław;0;4
+3017023;301702;Nowe Skalmierzyce;Wrocław;0;5
+3017033;301703;Odolanów;Wrocław;0;3
+3017042;301704;Ostrów Wielkopolski;Wrocław;0;4
+3017052;301705;Przygodzice;Wrocław;0;3
+3017063;301706;Raszków;Wrocław;0;4
+3017072;301707;Sieroszewice;Wrocław;0;5
+3017082;301708;Sośnie;Wrocław;0;2
+3018012;301801;Czajków;Łódź;0;5
+3018022;301802;Doruchów;Wrocław;0;4
+3018033;301803;Grabów nad Prosną;Wrocław;0;4
+3018042;301804;Kobyla Góra;Wrocław;0;3
+3018052;301805;Kraszewice;Łódź;0;5
+3018063;301806;Mikstat;Wrocław;0;4
+3018073;301807;Ostrzeszów;Wrocław;0;3
+3019011;301901;Piła;Poznań;0;5
+3019022;301902;Białośliwie;Bydgoszcz;0;4
+3019033;301903;Kaczory;Poznań;0;5
+3019043;301904;Łobżenica;Bydgoszcz;0;3
+3019053;301905;Miasteczko Krajeńskie;Poznań;0;5
+3019062;301906;Szydłowo;Poznań;0;5
+3019073;301907;Ujście;Poznań;0;4
+3019083;301908;Wyrzysk;Bydgoszcz;0;3
+3019093;301909;Wysoka;Bydgoszcz;0;4
+3020013;302001;Chocz;Poznań;0;5
+3020022;302002;Czermin;Poznań;0;4
+3020033;302003;Dobrzyca;Poznań;0;5
+3020042;302004;Gizałki;Poznań;0;4
+3020052;302005;Gołuchów;Poznań;0;5
+3020063;302006;Pleszew;Poznań;0;5
+3021011;302101;Luboń;Poznań;0;1
+3021021;302102;Puszczykowo;Poznań;0;1
+3021033;302103;Buk;Poznań;0;1
+3021042;302104;Czerwonak;Poznań;0;1
+3021052;302105;Dopiewo;Poznań;0;1
+3021062;302106;Kleszczewo;Poznań;0;1
+3021072;302107;Komorniki;Poznań;0;1
+3021083;302108;Kostrzyn;Poznań;0;1
+3021093;302109;Kórnik;Poznań;0;1
+3021103;302110;Mosina;Poznań;0;1
+3021113;302111;Murowana Goślina;Poznań;0;1
+3021123;302112;Pobiedziska;Poznań;0;1
+3021132;302113;Rokietnica;Poznań;0;1
+3021143;302114;Stęszew;Poznań;0;1
+3021152;302115;Suchy Las;Poznań;0;1
+3021163;302116;Swarzędz;Poznań;0;1
+3021172;302117;Tarnowo Podgórne;Poznań;0;1
+3022013;302201;Bojanowo;Wrocław;0;3
+3022023;302202;Jutrosin;Wrocław;0;2
+3022033;302203;Miejska Górka;Wrocław;0;2
+3022042;302204;Pakosław;Wrocław;0;2
+3022053;302205;Rawicz;Wrocław;0;2
+3023011;302301;Słupca;Poznań;0;4
+3023022;302302;Lądek;Poznań;0;4
+3023032;302303;Orchowo;Poznań;0;5
+3023042;302304;Ostrowite;Poznań;0;4
+3023052;302305;Powidz;Poznań;0;4
+3023062;302306;Słupca;Poznań;0;4
+3023072;302307;Strzałkowo;Poznań;0;3
+3023083;302308;Zagórów;Poznań;0;4
+3024011;302401;Obrzycko;Poznań;0;2
+3024022;302402;Duszniki;Poznań;0;1
+3024032;302403;Kaźmierz;Poznań;0;1
+3024042;302404;Obrzycko;Poznań;0;2
+3024053;302405;Ostroróg;Poznań;0;2
+3024063;302406;Pniewy;Poznań;0;2
+3024073;302407;Szamotuły;Poznań;0;1
+3024083;302408;Wronki;Poznań;0;3
+3025012;302501;Dominowo;Poznań;0;2
+3025022;302502;Krzykosy;Poznań;0;2
+3025032;302503;Nowe Miasto nad Wartą;Poznań;0;2
+3025043;302504;Środa Wielkopolska;Poznań;0;1
+3025053;302505;Zaniemyśl;Poznań;0;1
+3026012;302601;Brodnica;Poznań;0;1
+3026023;302602;Dolsk;Poznań;0;2
+3026033;302603;Książ Wielkopolski;Poznań;0;2
+3026043;302604;Śrem;Poznań;0;2
+3027011;302701;Turek;Łódź;0;4
+3027022;302702;Brudzew;Łódź;0;4
+3027033;302703;Dobra;Łódź;0;3
+3027042;302704;Kawęczyn;Łódź;0;3
+3027052;302705;Malanów;Łódź;0;4
+3027062;302706;Przykona;Łódź;0;3
+3027073;302707;Tuliszków;Łódź;0;5
+3027082;302708;Turek;Łódź;0;4
+3027092;302709;Władysławów;Łódź;0;4
+3028011;302801;Wągrowiec;Poznań;0;2
+3028022;302802;Damasławek;Poznań;0;3
+3028033;302803;Gołańcz;Bydgoszcz;0;3
+3028043;302804;Mieścisko;Poznań;0;2
+3028053;302805;Skoki;Poznań;0;1
+3028062;302806;Wapno;Bydgoszcz;0;3
+3028072;302807;Wągrowiec;Poznań;0;3
+3029012;302901;Przemęt;Poznań;0;4
+3029022;302902;Siedlec;Zielona Góra;0;3
+3029033;302903;Wolsztyn;Poznań;0;4
+3030012;303001;Kołaczkowo;Poznań;0;3
+3030023;303002;Miłosław;Poznań;0;2
+3030033;303003;Nekla;Poznań;0;2
+3030043;303004;Pyzdry;Poznań;0;4
+3030053;303005;Września;Poznań;0;2
+3031011;303101;Złotów;Bydgoszcz;0;4
+3031023;303102;Jastrowie;Poznań;0;5
+3031033;303103;Krajenka;Bydgoszcz;0;5
+3031042;303104;Lipka;Bydgoszcz;0;4
+3031053;303105;Okonek;Bydgoszcz;0;5
+3031062;303106;Tarnówka;Bydgoszcz;0;5
+3031072;303107;Zakrzewo;Bydgoszcz;0;4
+3031082;303108;Złotów;Bydgoszcz;0;5
+3061011;306101;Kalisz;Łódź;0;5
+3062011;306201;Konin;Poznań;0;5
+3063011;306301;Leszno;Poznań;0;4
+3064011;306401;Poznań;Poznań;1;0
+3201011;320101;Białogard;Szczecin;0;5
+3201022;320102;Białogard;Szczecin;0;5
+3201033;320103;Karlino;Szczecin;0;5
+3201043;320104;Tychowo;Szczecin;0;5
+3202012;320201;Bierzwnik;Gorzów Wielkopolski;0;5
+3202023;320202;Choszczno;Szczecin;0;3
+3202033;320203;Drawno;Szczecin;0;4
+3202042;320204;Krzęcin;Gorzów Wielkopolski;0;4
+3202053;320205;Pełczyce;Gorzów Wielkopolski;0;3
+3202063;320206;Recz;Szczecin;0;3
+3203013;320301;Czaplinek;Szczecin;0;5
+3203023;320302;Drawsko Pomorskie;Szczecin;0;4
+3203033;320303;Kalisz Pomorski;Szczecin;0;4
+3203052;320305;Wierzchowo;Szczecin;0;4
+3203063;320306;Złocieniec;Szczecin;0;4
+3204023;320402;Goleniów;Szczecin;0;1
+3204033;320403;Maszewo;Szczecin;0;1
+3204043;320404;Nowogard;Szczecin;0;2
+3204052;320405;Osina;Szczecin;0;1
+3204062;320406;Przybiernów;Szczecin;0;2
+3204073;320407;Stepnica;Szczecin;0;1
+3205012;320501;Brojce;Szczecin;0;4
+3205023;320502;Gryfice;Szczecin;0;3
+3205032;320503;Karnice;Szczecin;0;3
+3205043;320504;Płoty;Szczecin;0;3
+3205072;320507;Rewal;Szczecin;0;4
+3205083;320508;Trzebiatów;Szczecin;0;4
+3206012;320601;Banie;Szczecin;0;2
+3206023;320602;Cedynia;Szczecin;0;3
+3206033;320603;Chojna;Szczecin;0;2
+3206043;320604;Gryfino;Szczecin;0;1
+3206053;320605;Mieszkowice;Szczecin;0;3
+3206063;320606;Moryń;Szczecin;0;3
+3206072;320607;Stare Czarnowo;Szczecin;0;1
+3206083;320608;Trzcińsko-Zdrój;Szczecin;0;3
+3206092;320609;Widuchowa;Szczecin;0;1
+3207013;320701;Dziwnów;Szczecin;0;3
+3207023;320702;Golczewo;Szczecin;0;2
+3207033;320703;Kamień Pomorski;Szczecin;0;3
+3207043;320704;Międzyzdroje;Szczecin;0;2
+3207052;320705;Świerzno;Szczecin;0;3
+3207063;320706;Wolin;Szczecin;0;2
+3208011;320801;Kołobrzeg;Szczecin;0;5
+3208022;320802;Dygowo;Szczecin;0;5
+3208033;320803;Gościno;Szczecin;0;4
+3208042;320804;Kołobrzeg;Szczecin;0;4
+3208052;320805;Rymań;Szczecin;0;4
+3208062;320806;Siemyśl;Szczecin;0;4
+3208072;320807;Ustronie Morskie;Szczecin;0;5
+3209012;320901;Będzino;Szczecin;0;5
+3209022;320902;Biesiekierz;Szczecin;0;5
+3209033;320903;Bobolice;Gdańsk;0;5
+3209042;320904;Manowo;Szczecin;0;5
+3209053;320905;Mielno;Szczecin;0;5
+3209063;320906;Polanów;Gdańsk;0;5
+3209073;320907;Sianów;Szczecin;0;5
+3209082;320908;Świeszyno;Szczecin;0;5
+3210013;321001;Barlinek;Gorzów Wielkopolski;0;2
+3210022;321002;Boleszkowice;Gorzów Wielkopolski;0;5
+3210033;321003;Dębno;Gorzów Wielkopolski;0;3
+3210043;321004;Myślibórz;Gorzów Wielkopolski;0;3
+3210052;321005;Nowogródek Pomorski;Gorzów Wielkopolski;0;2
+3211012;321101;Dobra (Szczecińska);Szczecin;0;1
+3211022;321102;Kołbaskowo;Szczecin;0;1
+3211033;321103;Nowe Warpno;Szczecin;0;1
+3211043;321104;Police;Szczecin;0;1
+3212012;321201;Bielice;Szczecin;0;1
+3212022;321202;Kozielice;Szczecin;0;2
+3212033;321203;Lipiany;Szczecin;0;2
+3212042;321204;Przelewice;Szczecin;0;2
+3212053;321205;Pyrzyce;Szczecin;0;2
+3212062;321206;Warnice;Szczecin;0;1
+3213011;321301;Darłowo;Gdańsk;0;5
+3213021;321302;Sławno;Gdańsk;0;5
+3213032;321303;Darłowo;Gdańsk;0;5
+3213042;321304;Malechowo;Gdańsk;0;5
+3213052;321305;Postomino;Gdańsk;0;5
+3213062;321306;Sławno;Gdańsk;0;5
+3214011;321401;Stargard;Szczecin;0;1
+3214023;321402;Chociwel;Szczecin;0;2
+3214033;321403;Dobrzany;Szczecin;0;2
+3214042;321404;Dolice;Szczecin;0;2
+3214053;321405;Ińsko;Szczecin;0;3
+3214062;321406;Kobylanka;Szczecin;0;1
+3214082;321408;Marianowo;Szczecin;0;2
+3214092;321409;Stara Dąbrowa;Szczecin;0;1
+3214102;321410;Stargard;Szczecin;0;1
+3214113;321411;Suchań;Szczecin;0;2
+3215011;321501;Szczecinek;Bydgoszcz;0;5
+3215023;321502;Barwice;Szczecin;0;5
+3215033;321503;Biały Bór;Bydgoszcz;0;5
+3215043;321504;Borne Sulinowo;Poznań;0;5
+3215052;321505;Grzmiąca;Szczecin;0;5
+3215062;321506;Szczecinek;Bydgoszcz;0;5
+3216011;321601;Świdwin;Szczecin;0;4
+3216022;321602;Brzeżno;Szczecin;0;4
+3216033;321603;Połczyn-Zdrój;Szczecin;0;5
+3216042;321604;Rąbino;Szczecin;0;4
+3216052;321605;Sławoborze;Szczecin;0;4
+3216062;321606;Świdwin;Szczecin;0;4
+3217011;321701;Wałcz;Poznań;0;5
+3217023;321702;Człopa;Poznań;0;5
+3217033;321703;Mirosławiec;Szczecin;0;4
+3217043;321704;Tuczno;Poznań;0;5
+3217052;321705;Wałcz;Poznań;0;5
+3218013;321801;Dobra;Szczecin;0;2
+3218023;321802;Łobez;Szczecin;0;3
+3218032;321803;Radowo Małe;Szczecin;0;3
+3218043;321804;Resko;Szczecin;0;3
+3218053;321805;Węgorzyno;Szczecin;0;3
+3261011;326101;Koszalin;Szczecin;0;5
+3262011;326201;Szczecin;Szczecin;1;0
+3263011;326301;Świnoujście;Szczecin;0;2

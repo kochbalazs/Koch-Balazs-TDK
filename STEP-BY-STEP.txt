@@ -1,0 +1,3 @@
+STEP-BY-STEP:
+1. pip install pandas geopandas matplotlib requests shapely adjustText
+2.
